@@ -1,0 +1,7 @@
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\Gugudan\Gugudan\obj\Debug\Gugudan.csprojAssemblyReference.cache
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\Gugudan\Gugudan\obj\Debug\Gugudan.csproj.CoreCompileInputs.cache
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\Gugudan\Gugudan\bin\Debug\Gugudan.exe.config
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\Gugudan\Gugudan\bin\Debug\Gugudan.exe
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\Gugudan\Gugudan\bin\Debug\Gugudan.pdb
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\Gugudan\Gugudan\obj\Debug\Gugudan.exe
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\Gugudan\Gugudan\obj\Debug\Gugudan.pdb

@@ -1,0 +1,7 @@
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\StudentList\StudentList\bin\Debug\StudentList.exe.config
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\StudentList\StudentList\bin\Debug\StudentList.exe
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\StudentList\StudentList\bin\Debug\StudentList.pdb
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\StudentList\StudentList\obj\Debug\StudentList.csprojAssemblyReference.cache
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\StudentList\StudentList\obj\Debug\StudentList.csproj.CoreCompileInputs.cache
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\StudentList\StudentList\obj\Debug\StudentList.exe
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\StudentList\StudentList\obj\Debug\StudentList.pdb

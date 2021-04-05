@@ -1,0 +1,6 @@
+C:\Users\ehdwn\source\repos\ComparisonOperators\ComparisonOperators\bin\Debug\ComparisonOperators.exe.config
+C:\Users\ehdwn\source\repos\ComparisonOperators\ComparisonOperators\bin\Debug\ComparisonOperators.exe
+C:\Users\ehdwn\source\repos\ComparisonOperators\ComparisonOperators\bin\Debug\ComparisonOperators.pdb
+C:\Users\ehdwn\source\repos\ComparisonOperators\ComparisonOperators\obj\Debug\ComparisonOperators.csproj.CoreCompileInputs.cache
+C:\Users\ehdwn\source\repos\ComparisonOperators\ComparisonOperators\obj\Debug\ComparisonOperators.exe
+C:\Users\ehdwn\source\repos\ComparisonOperators\ComparisonOperators\obj\Debug\ComparisonOperators.pdb

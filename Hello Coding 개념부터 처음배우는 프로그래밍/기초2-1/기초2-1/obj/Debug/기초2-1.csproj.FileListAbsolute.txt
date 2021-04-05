@@ -1,0 +1,7 @@
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\기초2-1\기초2-1\bin\Debug\기초2-1.exe.config
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\기초2-1\기초2-1\bin\Debug\기초2-1.exe
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\기초2-1\기초2-1\bin\Debug\기초2-1.pdb
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\기초2-1\기초2-1\obj\Debug\기초2-1.csprojAssemblyReference.cache
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\기초2-1\기초2-1\obj\Debug\기초2-1.csproj.CoreCompileInputs.cache
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\기초2-1\기초2-1\obj\Debug\기초2-1.exe
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\기초2-1\기초2-1\obj\Debug\기초2-1.pdb

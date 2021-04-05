@@ -1,0 +1,9 @@
+C:\Users\ehdwn\source\repos\Calculator2\Calculator2\obj\Debug\Calculator2.csprojAssemblyReference.cache
+C:\Users\ehdwn\source\repos\Calculator2\Calculator2\obj\Debug\Calculator2.csproj.CoreCompileInputs.cache
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\Calculator2\Calculator2\obj\Debug\Calculator2.csprojAssemblyReference.cache
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\Calculator2\Calculator2\obj\Debug\Calculator2.csproj.CoreCompileInputs.cache
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\Calculator2\Calculator2\bin\Debug\Calculator2.exe.config
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\Calculator2\Calculator2\bin\Debug\Calculator2.exe
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\Calculator2\Calculator2\bin\Debug\Calculator2.pdb
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\Calculator2\Calculator2\obj\Debug\Calculator2.exe
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\Calculator2\Calculator2\obj\Debug\Calculator2.pdb

@@ -1,0 +1,7 @@
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\5-4\5-4\bin\Debug\5-4.exe.config
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\5-4\5-4\bin\Debug\5-4.exe
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\5-4\5-4\bin\Debug\5-4.pdb
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\5-4\5-4\obj\Debug\5-4.csprojAssemblyReference.cache
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\5-4\5-4\obj\Debug\5-4.csproj.CoreCompileInputs.cache
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\5-4\5-4\obj\Debug\5-4.exe
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\5-4\5-4\obj\Debug\5-4.pdb

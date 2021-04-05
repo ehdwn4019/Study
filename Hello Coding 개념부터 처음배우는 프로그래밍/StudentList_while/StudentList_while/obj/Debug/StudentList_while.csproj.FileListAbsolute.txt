@@ -1,0 +1,6 @@
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\StudentList_while\StudentList_while\obj\Debug\StudentList_while.csproj.CoreCompileInputs.cache
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\StudentList_while\StudentList_while\bin\Debug\StudentList_while.exe.config
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\StudentList_while\StudentList_while\bin\Debug\StudentList_while.exe
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\StudentList_while\StudentList_while\bin\Debug\StudentList_while.pdb
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\StudentList_while\StudentList_while\obj\Debug\StudentList_while.exe
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\StudentList_while\StudentList_while\obj\Debug\StudentList_while.pdb

@@ -1,0 +1,7 @@
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\ConsoleWrite\ConsoleWrite\bin\Debug\ConsoleWrite.exe.config
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\ConsoleWrite\ConsoleWrite\bin\Debug\ConsoleWrite.exe
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\ConsoleWrite\ConsoleWrite\bin\Debug\ConsoleWrite.pdb
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\ConsoleWrite\ConsoleWrite\obj\Debug\ConsoleWrite.csprojAssemblyReference.cache
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\ConsoleWrite\ConsoleWrite\obj\Debug\ConsoleWrite.csproj.CoreCompileInputs.cache
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\ConsoleWrite\ConsoleWrite\obj\Debug\ConsoleWrite.exe
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\ConsoleWrite\ConsoleWrite\obj\Debug\ConsoleWrite.pdb

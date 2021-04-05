@@ -1,0 +1,7 @@
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\MyFirstProgram\MyFirstProgram\bin\Debug\MyFirstProgram.exe.config
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\MyFirstProgram\MyFirstProgram\bin\Debug\MyFirstProgram.exe
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\MyFirstProgram\MyFirstProgram\bin\Debug\MyFirstProgram.pdb
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\MyFirstProgram\MyFirstProgram\obj\Debug\MyFirstProgram.csprojAssemblyReference.cache
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\MyFirstProgram\MyFirstProgram\obj\Debug\MyFirstProgram.csproj.CoreCompileInputs.cache
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\MyFirstProgram\MyFirstProgram\obj\Debug\MyFirstProgram.exe
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\MyFirstProgram\MyFirstProgram\obj\Debug\MyFirstProgram.pdb

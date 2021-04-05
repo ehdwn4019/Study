@@ -1,0 +1,6 @@
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\심화 5-3\심화 5-3\obj\Debug\심화 5-3.csproj.CoreCompileInputs.cache
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\심화 5-3\심화 5-3\bin\Debug\심화 5-3.exe.config
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\심화 5-3\심화 5-3\bin\Debug\심화 5-3.exe
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\심화 5-3\심화 5-3\bin\Debug\심화 5-3.pdb
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\심화 5-3\심화 5-3\obj\Debug\심화 5-3.exe
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\심화 5-3\심화 5-3\obj\Debug\심화 5-3.pdb

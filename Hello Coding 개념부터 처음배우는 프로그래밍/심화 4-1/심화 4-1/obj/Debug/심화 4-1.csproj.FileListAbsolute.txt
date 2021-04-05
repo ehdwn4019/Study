@@ -1,0 +1,6 @@
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\심화 4-1\심화 4-1\bin\Debug\심화 4-1.exe.config
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\심화 4-1\심화 4-1\bin\Debug\심화 4-1.exe
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\심화 4-1\심화 4-1\bin\Debug\심화 4-1.pdb
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\심화 4-1\심화 4-1\obj\Debug\심화 4-1.csproj.CoreCompileInputs.cache
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\심화 4-1\심화 4-1\obj\Debug\심화 4-1.exe
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\심화 4-1\심화 4-1\obj\Debug\심화 4-1.pdb

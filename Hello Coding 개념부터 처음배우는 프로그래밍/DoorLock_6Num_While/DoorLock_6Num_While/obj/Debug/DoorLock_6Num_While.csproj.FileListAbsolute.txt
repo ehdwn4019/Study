@@ -1,0 +1,7 @@
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\DoorLock_6Num_While\DoorLock_6Num_While\obj\Debug\DoorLock_6Num_While.csprojAssemblyReference.cache
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\DoorLock_6Num_While\DoorLock_6Num_While\obj\Debug\DoorLock_6Num_While.csproj.CoreCompileInputs.cache
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\DoorLock_6Num_While\DoorLock_6Num_While\bin\Debug\DoorLock_6Num_While.exe.config
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\DoorLock_6Num_While\DoorLock_6Num_While\bin\Debug\DoorLock_6Num_While.exe
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\DoorLock_6Num_While\DoorLock_6Num_While\bin\Debug\DoorLock_6Num_While.pdb
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\DoorLock_6Num_While\DoorLock_6Num_While\obj\Debug\DoorLock_6Num_While.exe
+C:\Users\ehdwn\OneDrive\바탕 화면\프로그래밍 언어\Hello Coding 개념부터 처음배우는 프로그래밍\DoorLock_6Num_While\DoorLock_6Num_While\obj\Debug\DoorLock_6Num_While.pdb

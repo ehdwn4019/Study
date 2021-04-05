@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "심화 6-2", "심화 6-2\심화 6-2.csproj", "{BE9F4061-16EF-4120-9062-2B9A0C786D55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE9F4061-16EF-4120-9062-2B9A0C786D55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE9F4061-16EF-4120-9062-2B9A0C786D55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE9F4061-16EF-4120-9062-2B9A0C786D55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE9F4061-16EF-4120-9062-2B9A0C786D55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A31A2002-C6BF-4D8A-B8BC-5DE290607A1B}
+	EndGlobalSection
+EndGlobal
