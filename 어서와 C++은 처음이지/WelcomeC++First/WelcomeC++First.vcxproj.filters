@@ -1,0 +1,1023 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\chap01">
+      <UniqueIdentifier>{1db34c62-d7c2-44b0-8984-f1b9de2f540e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chap02">
+      <UniqueIdentifier>{0b313659-5d15-481c-87ec-e465f3f13f1b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chap03">
+      <UniqueIdentifier>{1457e30c-5aa4-4919-8f9a-cfbb08a10657}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chap03\PROGRAMMINGEXERCISE">
+      <UniqueIdentifier>{3eabafc9-166b-4355-86a5-bea27d251156}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chap04">
+      <UniqueIdentifier>{586b35c7-3e1a-469a-9c5e-c62df865643f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\chap04">
+      <UniqueIdentifier>{5114a3bc-3b5b-4a10-bd5b-d8c0b7295f87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chap04\cppFile">
+      <UniqueIdentifier>{128cf8a1-f56e-4f7f-b7e0-bd5c96f83afe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chap04\mainFile">
+      <UniqueIdentifier>{89d6293a-fa92-41da-9a2a-5e510cf0b6c7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chap04\PROGRAMMINGEXERCISE">
+      <UniqueIdentifier>{3a80b40d-70c1-4490-a449-4a7fa70b04f7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chap05">
+      <UniqueIdentifier>{bd22ffc7-862b-4c0f-b72d-8f81fe9ab198}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chap05\EXERCISE">
+      <UniqueIdentifier>{94566a8c-4f16-4dd0-99de-fac58959ac93}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chap05\PROGRAMMINGEXERCISE">
+      <UniqueIdentifier>{5b244ab6-9889-4b6b-a86c-02bf0c984e84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chap06">
+      <UniqueIdentifier>{0840a714-35a5-4603-bfd5-769cdafc7445}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chap06\EXERCISE">
+      <UniqueIdentifier>{4fe37ea9-8444-427b-b629-31d4f4acd5d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chap06\PROGRAMMINGEXERCISE">
+      <UniqueIdentifier>{4f5b738c-b470-4487-9904-cd1c1f154388}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chap09">
+      <UniqueIdentifier>{dc8145aa-5ff9-4960-b4fa-430186b5a364}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chap08">
+      <UniqueIdentifier>{977e1081-b338-4fab-958b-9f0a428f8b61}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chap08\EXERCISE">
+      <UniqueIdentifier>{89d88977-3a3a-4edd-8f18-fb3e59f4659d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chap08\PROGRAMMING">
+      <UniqueIdentifier>{de1e0df6-d01f-4271-96d4-369ba20c79f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chap09\EXERCISE">
+      <UniqueIdentifier>{687eec72-6fc8-4919-a4e0-21d1612f3fd5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chap09\PROGRAMMINGEXERCISE">
+      <UniqueIdentifier>{82664387-6b23-4220-a828-16b1c46db7ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chap10">
+      <UniqueIdentifier>{d02a5253-2166-42d6-9b04-428c3bd02b05}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chap10\EXERCISE">
+      <UniqueIdentifier>{7c7df999-b997-4c6f-bb5c-0de4864eaa65}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chap10\PROGRAMMINGEXERCISE">
+      <UniqueIdentifier>{07a5686b-2434-4823-bd00-8d5ad6cf68f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chap11">
+      <UniqueIdentifier>{e6ab4375-673e-4f84-b8d6-d7dd91927722}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chap11\EXERCISE">
+      <UniqueIdentifier>{f4ac75ec-bc3f-4c1e-9007-3860e8c86a8f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chap11\PROGRAMMINGEXERCISE">
+      <UniqueIdentifier>{2f70ec8d-e6fc-45bf-a213-4a156375ef62}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chap12">
+      <UniqueIdentifier>{880347c5-59e0-4cd8-9b3c-b3f2359838ab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chap12\PROGRAMMINGEXERCISE">
+      <UniqueIdentifier>{64c74455-5271-4a57-812f-8f6ebd50a509}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chap13">
+      <UniqueIdentifier>{c62a4609-4b47-4f8d-875f-9bd330cf99f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chap13\PROGRAMMINGEXERCISE">
+      <UniqueIdentifier>{8be9b98b-7b49-4224-8a75-15eac2f1e696}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chap14">
+      <UniqueIdentifier>{5620c4bd-519a-4b10-9151-6abda937b657}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chap14\PROGRAMMINGEXERCISE">
+      <UniqueIdentifier>{2a9b1a4f-19d6-4590-b4aa-aea50c88d709}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chap14\EXERCISE">
+      <UniqueIdentifier>{8fdb6865-498f-4b13-892e-3a01c7c5e0ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chap15">
+      <UniqueIdentifier>{31593671-5c35-4d50-b135-453e83b669ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chap15\EXERCISE">
+      <UniqueIdentifier>{b7b95217-c265-4c17-9f7c-964c3d82ca0e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chap15\PROGRAMMINGEXERCISE">
+      <UniqueIdentifier>{45cb0199-6f64-4ec9-afeb-244eb7cb5b5d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="hello.cpp">
+      <Filter>소스 파일\chap01</Filter>
+    </ClCompile>
+    <ClCompile Include="string.cpp">
+      <Filter>소스 파일\chap01</Filter>
+    </ClCompile>
+    <ClCompile Include="cin.cpp">
+      <Filter>소스 파일\chap01</Filter>
+    </ClCompile>
+    <ClCompile Include="P59_3.cpp">
+      <Filter>소스 파일\chap01</Filter>
+    </ClCompile>
+    <ClCompile Include="temp.cpp">
+      <Filter>소스 파일\chap01</Filter>
+    </ClCompile>
+    <ClCompile Include="modulo.cpp">
+      <Filter>소스 파일\chap01</Filter>
+    </ClCompile>
+    <ClCompile Include="dice.cpp">
+      <Filter>소스 파일\chap01</Filter>
+    </ClCompile>
+    <ClCompile Include="bool.cpp">
+      <Filter>소스 파일\chap02</Filter>
+    </ClCompile>
+    <ClCompile Include="greater.cpp">
+      <Filter>소스 파일\chap02</Filter>
+    </ClCompile>
+    <ClCompile Include="age.cpp">
+      <Filter>소스 파일\chap02</Filter>
+    </ClCompile>
+    <ClCompile Include="code.cpp">
+      <Filter>소스 파일\chap02</Filter>
+    </ClCompile>
+    <ClCompile Include="lager.cpp">
+      <Filter>소스 파일\chap02</Filter>
+    </ClCompile>
+    <ClCompile Include="switch.cpp">
+      <Filter>소스 파일\chap02</Filter>
+    </ClCompile>
+    <ClCompile Include="countdown.cpp">
+      <Filter>소스 파일\chap02</Filter>
+    </ClCompile>
+    <ClCompile Include="LoopExample2.cpp">
+      <Filter>소스 파일\chap02</Filter>
+    </ClCompile>
+    <ClCompile Include="do_while.cpp">
+      <Filter>소스 파일\chap02</Filter>
+    </ClCompile>
+    <ClCompile Include="sum.cpp">
+      <Filter>소스 파일\chap02</Filter>
+    </ClCompile>
+    <ClCompile Include="Factorial.cpp">
+      <Filter>소스 파일\chap02</Filter>
+    </ClCompile>
+    <ClCompile Include="break.cpp">
+      <Filter>소스 파일\chap02</Filter>
+    </ClCompile>
+    <ClCompile Include="continue.cpp">
+      <Filter>소스 파일\chap02</Filter>
+    </ClCompile>
+    <ClCompile Include="letters.cpp">
+      <Filter>소스 파일\chap02</Filter>
+    </ClCompile>
+    <ClCompile Include="guess_number.cpp">
+      <Filter>소스 파일\chap02</Filter>
+    </ClCompile>
+    <ClCompile Include="shape_area.cpp">
+      <Filter>소스 파일\chap02</Filter>
+    </ClCompile>
+    <ClCompile Include="math.cpp">
+      <Filter>소스 파일\chap02</Filter>
+    </ClCompile>
+    <ClCompile Include="array1.cpp">
+      <Filter>소스 파일\chap02</Filter>
+    </ClCompile>
+    <ClCompile Include="array1_1.cpp">
+      <Filter>소스 파일\chap02</Filter>
+    </ClCompile>
+    <ClCompile Include="array2.cpp">
+      <Filter>소스 파일\chap02</Filter>
+    </ClCompile>
+    <ClCompile Include="range.cpp">
+      <Filter>소스 파일\chap02</Filter>
+    </ClCompile>
+    <ClCompile Include="P105.cpp">
+      <Filter>소스 파일\chap02</Filter>
+    </ClCompile>
+    <ClCompile Include="gugu.cpp">
+      <Filter>소스 파일\chap02</Filter>
+    </ClCompile>
+    <ClCompile Include="P110.cpp">
+      <Filter>소스 파일\chap02</Filter>
+    </ClCompile>
+    <ClCompile Include="P112.cpp">
+      <Filter>소스 파일\chap02</Filter>
+    </ClCompile>
+    <ClCompile Include="P115_3.cpp">
+      <Filter>소스 파일\chap02</Filter>
+    </ClCompile>
+    <ClCompile Include="P116_5.cpp">
+      <Filter>소스 파일\chap02</Filter>
+    </ClCompile>
+    <ClCompile Include="P116_6.cpp">
+      <Filter>소스 파일\chap02</Filter>
+    </ClCompile>
+    <ClCompile Include="P117_8.cpp">
+      <Filter>소스 파일\chap02</Filter>
+    </ClCompile>
+    <ClCompile Include="P117_9.cpp">
+      <Filter>소스 파일\chap02</Filter>
+    </ClCompile>
+    <ClCompile Include="P117_10.cpp">
+      <Filter>소스 파일\chap02</Filter>
+    </ClCompile>
+    <ClCompile Include="P118_11.cpp">
+      <Filter>소스 파일\chap02</Filter>
+    </ClCompile>
+    <ClCompile Include="P118_12.cpp">
+      <Filter>소스 파일\chap02</Filter>
+    </ClCompile>
+    <ClCompile Include="P118_13.cpp">
+      <Filter>소스 파일\chap02</Filter>
+    </ClCompile>
+    <ClCompile Include="P119_16.cpp">
+      <Filter>소스 파일\chap02</Filter>
+    </ClCompile>
+    <ClCompile Include="func1.cpp">
+      <Filter>소스 파일\chap03</Filter>
+    </ClCompile>
+    <ClCompile Include="P127.cpp">
+      <Filter>소스 파일\chap03</Filter>
+    </ClCompile>
+    <ClCompile Include="P133.cpp">
+      <Filter>소스 파일\chap03</Filter>
+    </ClCompile>
+    <ClCompile Include="P143.cpp">
+      <Filter>소스 파일\chap03</Filter>
+    </ClCompile>
+    <ClCompile Include="overloaded_func.cpp">
+      <Filter>소스 파일\chap03</Filter>
+    </ClCompile>
+    <ClCompile Include="P138.cpp">
+      <Filter>소스 파일\chap03</Filter>
+    </ClCompile>
+    <ClCompile Include="default.cpp">
+      <Filter>소스 파일\chap03</Filter>
+    </ClCompile>
+    <ClCompile Include="string3.cpp">
+      <Filter>소스 파일\chap03</Filter>
+    </ClCompile>
+    <ClCompile Include="strtest1.cpp">
+      <Filter>소스 파일\chap03</Filter>
+    </ClCompile>
+    <ClCompile Include="strtest2.cpp">
+      <Filter>소스 파일\chap03</Filter>
+    </ClCompile>
+    <ClCompile Include="string4.cpp">
+      <Filter>소스 파일\chap03</Filter>
+    </ClCompile>
+    <ClCompile Include="string5.cpp">
+      <Filter>소스 파일\chap03</Filter>
+    </ClCompile>
+    <ClCompile Include="P154.cpp">
+      <Filter>소스 파일\chap03</Filter>
+    </ClCompile>
+    <ClCompile Include="hangman.cpp">
+      <Filter>소스 파일\chap03</Filter>
+    </ClCompile>
+    <ClCompile Include="P160_1.cpp">
+      <Filter>소스 파일\chap03\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P160_2.cpp">
+      <Filter>소스 파일\chap03\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P160_3.cpp">
+      <Filter>소스 파일\chap03\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P161_4.cpp">
+      <Filter>소스 파일\chap03\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P161_5.cpp">
+      <Filter>소스 파일\chap03\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P161_6.cpp">
+      <Filter>소스 파일\chap03\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="circle1.cpp">
+      <Filter>소스 파일\chap04</Filter>
+    </ClCompile>
+    <ClCompile Include="circle2.cpp">
+      <Filter>소스 파일\chap04</Filter>
+    </ClCompile>
+    <ClCompile Include="P182.cpp">
+      <Filter>소스 파일\chap04</Filter>
+    </ClCompile>
+    <ClCompile Include="P184.cpp">
+      <Filter>소스 파일\chap04</Filter>
+    </ClCompile>
+    <ClCompile Include="P186.cpp">
+      <Filter>소스 파일\chap04</Filter>
+    </ClCompile>
+    <ClCompile Include="P188.cpp">
+      <Filter>소스 파일\chap04</Filter>
+    </ClCompile>
+    <ClCompile Include="circle7.cpp">
+      <Filter>소스 파일\chap04</Filter>
+    </ClCompile>
+    <ClCompile Include="car.cpp">
+      <Filter>소스 파일\chap04\cppFile</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>소스 파일\chap04\mainFile</Filter>
+    </ClCompile>
+    <ClCompile Include="circle_race.cpp">
+      <Filter>소스 파일\chap04</Filter>
+    </ClCompile>
+    <ClCompile Include="P210_2.cpp">
+      <Filter>소스 파일\chap04\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P210_1.cpp">
+      <Filter>소스 파일\chap04\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P211_3.cpp">
+      <Filter>소스 파일\chap04\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P211_4.cpp">
+      <Filter>소스 파일\chap04\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P211_5.cpp">
+      <Filter>소스 파일\chap04\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="212_6.cpp">
+      <Filter>소스 파일\chap04\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P162_7.cpp">
+      <Filter>소스 파일\chap03\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P162_8.cpp">
+      <Filter>소스 파일\chap03\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="time1.cpp">
+      <Filter>소스 파일\chap05</Filter>
+    </ClCompile>
+    <ClCompile Include="time2.cpp">
+      <Filter>소스 파일\chap05</Filter>
+    </ClCompile>
+    <ClCompile Include="time3.cpp">
+      <Filter>소스 파일\chap05</Filter>
+    </ClCompile>
+    <ClCompile Include="time4.cpp">
+      <Filter>소스 파일\chap05</Filter>
+    </ClCompile>
+    <ClCompile Include="time5.cpp">
+      <Filter>소스 파일\chap05</Filter>
+    </ClCompile>
+    <ClCompile Include="P228.cpp">
+      <Filter>소스 파일\chap05</Filter>
+    </ClCompile>
+    <ClCompile Include="P230.cpp">
+      <Filter>소스 파일\chap05</Filter>
+    </ClCompile>
+    <ClCompile Include="time5_2.cpp">
+      <Filter>소스 파일\chap05</Filter>
+    </ClCompile>
+    <ClCompile Include="time6.cpp">
+      <Filter>소스 파일\chap05</Filter>
+    </ClCompile>
+    <ClCompile Include="P238.cpp">
+      <Filter>소스 파일\chap05</Filter>
+    </ClCompile>
+    <ClCompile Include="pizza1.cpp">
+      <Filter>소스 파일\chap05</Filter>
+    </ClCompile>
+    <ClCompile Include="pizza2.cpp">
+      <Filter>소스 파일\chap05</Filter>
+    </ClCompile>
+    <ClCompile Include="pizza3.cpp">
+      <Filter>소스 파일\chap05</Filter>
+    </ClCompile>
+    <ClCompile Include="P244_1.cpp">
+      <Filter>소스 파일\chap05\EXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P244_2.cpp">
+      <Filter>소스 파일\chap05\EXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P244_3.cpp">
+      <Filter>소스 파일\chap05\EXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P245_4.cpp">
+      <Filter>소스 파일\chap05\EXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P245_5.cpp">
+      <Filter>소스 파일\chap05\EXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P246_1.cpp">
+      <Filter>소스 파일\chap05\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P254.cpp">
+      <Filter>소스 파일\chap06</Filter>
+    </ClCompile>
+    <ClCompile Include="P256.cpp">
+      <Filter>소스 파일\chap06</Filter>
+    </ClCompile>
+    <ClCompile Include="P258.cpp">
+      <Filter>소스 파일\chap06</Filter>
+    </ClCompile>
+    <ClCompile Include="vecotr1.cpp">
+      <Filter>소스 파일\chap06</Filter>
+    </ClCompile>
+    <ClCompile Include="vector2.cpp">
+      <Filter>소스 파일\chap06</Filter>
+    </ClCompile>
+    <ClCompile Include="vector3.cpp">
+      <Filter>소스 파일\chap06</Filter>
+    </ClCompile>
+    <ClCompile Include="vector_op.cpp">
+      <Filter>소스 파일\chap06</Filter>
+    </ClCompile>
+    <ClCompile Include="vector_str.cpp">
+      <Filter>소스 파일\chap06</Filter>
+    </ClCompile>
+    <ClCompile Include="vector_obj.cpp">
+      <Filter>소스 파일\chap06</Filter>
+    </ClCompile>
+    <ClCompile Include="P270.cpp">
+      <Filter>소스 파일\chap06</Filter>
+    </ClCompile>
+    <ClCompile Include="P272.cpp">
+      <Filter>소스 파일\chap06</Filter>
+    </ClCompile>
+    <ClCompile Include="P273.cpp">
+      <Filter>소스 파일\chap06</Filter>
+    </ClCompile>
+    <ClCompile Include="P275.cpp">
+      <Filter>소스 파일\chap06</Filter>
+    </ClCompile>
+    <ClCompile Include="array6.cpp">
+      <Filter>소스 파일\chap06</Filter>
+    </ClCompile>
+    <ClCompile Include="P279_1.cpp">
+      <Filter>소스 파일\chap06\EXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P279_2.cpp">
+      <Filter>소스 파일\chap06\EXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P280_3.cpp">
+      <Filter>소스 파일\chap06\EXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P281_1.cpp">
+      <Filter>소스 파일\chap06\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P281_2.cpp">
+      <Filter>소스 파일\chap06\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P281_3.cpp">
+      <Filter>소스 파일\chap06\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P282_4.cpp">
+      <Filter>소스 파일\chap06\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P283_5.cpp">
+      <Filter>소스 파일\chap06\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P283_6.cpp">
+      <Filter>소스 파일\chap06\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer1.cpp">
+      <Filter>소스 파일\chap08</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer2.cpp">
+      <Filter>소스 파일\chap08</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer3.cpp">
+      <Filter>소스 파일\chap08</Filter>
+    </ClCompile>
+    <ClCompile Include="new1.cpp">
+      <Filter>소스 파일\chap08</Filter>
+    </ClCompile>
+    <ClCompile Include="smart1.cpp">
+      <Filter>소스 파일\chap08</Filter>
+    </ClCompile>
+    <ClCompile Include="smart2.cpp">
+      <Filter>소스 파일\chap08</Filter>
+    </ClCompile>
+    <ClCompile Include="smart3.cpp">
+      <Filter>소스 파일\chap08</Filter>
+    </ClCompile>
+    <ClCompile Include="dog1.cpp">
+      <Filter>소스 파일\chap08</Filter>
+    </ClCompile>
+    <ClCompile Include="dog2.cpp">
+      <Filter>소스 파일\chap08</Filter>
+    </ClCompile>
+    <ClCompile Include="dog3.cpp">
+      <Filter>소스 파일\chap08</Filter>
+    </ClCompile>
+    <ClCompile Include="rect1.cpp">
+      <Filter>소스 파일\chap08</Filter>
+    </ClCompile>
+    <ClCompile Include="dog5.cpp">
+      <Filter>소스 파일\chap08</Filter>
+    </ClCompile>
+    <ClCompile Include="lab1.cpp">
+      <Filter>소스 파일\chap08</Filter>
+    </ClCompile>
+    <ClCompile Include="const1.cpp">
+      <Filter>소스 파일\chap08</Filter>
+    </ClCompile>
+    <ClCompile Include="lab.cpp">
+      <Filter>소스 파일\chap08</Filter>
+    </ClCompile>
+    <ClCompile Include="P350_1.cpp">
+      <Filter>소스 파일\chap08\EXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P350_2.cpp">
+      <Filter>소스 파일\chap08\EXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P350_3.cpp">
+      <Filter>소스 파일\chap08\EXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P350_4.cpp">
+      <Filter>소스 파일\chap08\EXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P350_5.cpp">
+      <Filter>소스 파일\chap08\EXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P351_11.cpp">
+      <Filter>소스 파일\chap08\EXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P162_9.cpp">
+      <Filter>소스 파일\chap03\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P162_10.cpp">
+      <Filter>소스 파일\chap03\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P163_11.cpp">
+      <Filter>소스 파일\chap03\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P353_1.cpp">
+      <Filter>소스 파일\chap08\PROGRAMMING</Filter>
+    </ClCompile>
+    <ClCompile Include="P353_2.cpp">
+      <Filter>소스 파일\chap08\PROGRAMMING</Filter>
+    </ClCompile>
+    <ClCompile Include="P353_3.cpp">
+      <Filter>소스 파일\chap08\PROGRAMMING</Filter>
+    </ClCompile>
+    <ClCompile Include="P354_4.cpp">
+      <Filter>소스 파일\chap08\PROGRAMMING</Filter>
+    </ClCompile>
+    <ClCompile Include="P354_5.cpp">
+      <Filter>소스 파일\chap08\PROGRAMMING</Filter>
+    </ClCompile>
+    <ClCompile Include="P360.cpp">
+      <Filter>소스 파일\chap09</Filter>
+    </ClCompile>
+    <ClCompile Include="P361.cpp">
+      <Filter>소스 파일\chap09</Filter>
+    </ClCompile>
+    <ClCompile Include="P362.cpp">
+      <Filter>소스 파일\chap09</Filter>
+    </ClCompile>
+    <ClCompile Include="P363.cpp">
+      <Filter>소스 파일\chap09</Filter>
+    </ClCompile>
+    <ClCompile Include="complex.cpp">
+      <Filter>소스 파일\chap09</Filter>
+    </ClCompile>
+    <ClCompile Include="color_circle.cpp">
+      <Filter>소스 파일\chap09</Filter>
+    </ClCompile>
+    <ClCompile Include="Programmars.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="P373.cpp">
+      <Filter>소스 파일\chap09</Filter>
+    </ClCompile>
+    <ClCompile Include="MyArray.cpp">
+      <Filter>소스 파일\chap09</Filter>
+    </ClCompile>
+    <ClCompile Include="MyArray2.cpp">
+      <Filter>소스 파일\chap09</Filter>
+    </ClCompile>
+    <ClCompile Include="Person.cpp">
+      <Filter>소스 파일\chap09</Filter>
+    </ClCompile>
+    <ClCompile Include="static1.cpp">
+      <Filter>소스 파일\chap09</Filter>
+    </ClCompile>
+    <ClCompile Include="static2.cpp">
+      <Filter>소스 파일\chap09</Filter>
+    </ClCompile>
+    <ClCompile Include="Singleton.cpp">
+      <Filter>소스 파일\chap09</Filter>
+    </ClCompile>
+    <ClCompile Include="P391_2.cpp">
+      <Filter>소스 파일\chap09\EXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P393_2.cpp">
+      <Filter>소스 파일\chap09\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P394_3.cpp">
+      <Filter>소스 파일\chap09\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P393_1.cpp">
+      <Filter>소스 파일\chap09\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P394_4.cpp">
+      <Filter>소스 파일\chap09\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P395_5.cpp">
+      <Filter>소스 파일\chap09\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P396_6.cpp">
+      <Filter>소스 파일\chap09\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="string_1.cpp">
+      <Filter>소스 파일\chap10</Filter>
+    </ClCompile>
+    <ClCompile Include="MyVector.cpp">
+      <Filter>소스 파일\chap10</Filter>
+    </ClCompile>
+    <ClCompile Include="Time.cpp">
+      <Filter>소스 파일\chap10</Filter>
+    </ClCompile>
+    <ClCompile Include="Counter.cpp">
+      <Filter>소스 파일\chap10</Filter>
+    </ClCompile>
+    <ClCompile Include="Box.cpp">
+      <Filter>소스 파일\chap10</Filter>
+    </ClCompile>
+    <ClCompile Include="my_array.cpp">
+      <Filter>소스 파일\chap10</Filter>
+    </ClCompile>
+    <ClCompile Include="smartp.cpp">
+      <Filter>소스 파일\chap10</Filter>
+    </ClCompile>
+    <ClCompile Include="smart1_1.cpp">
+      <Filter>소스 파일\chap10</Filter>
+    </ClCompile>
+    <ClCompile Include="Box2.cpp">
+      <Filter>소스 파일\chap10</Filter>
+    </ClCompile>
+    <ClCompile Include="friend2.cpp">
+      <Filter>소스 파일\chap10</Filter>
+    </ClCompile>
+    <ClCompile Include="complex_1.cpp">
+      <Filter>소스 파일\chap10</Filter>
+    </ClCompile>
+    <ClCompile Include="MyVector_1.cpp">
+      <Filter>소스 파일\chap10</Filter>
+    </ClCompile>
+    <ClCompile Include="P431_7.cpp">
+      <Filter>소스 파일\chap10\EXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P431_8.cpp">
+      <Filter>소스 파일\chap10\EXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P433_P434_1_2_3_4.cpp">
+      <Filter>소스 파일\chap10\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P435_5.cpp">
+      <Filter>소스 파일\chap10\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="inhri_car.cpp">
+      <Filter>소스 파일\chap11</Filter>
+    </ClCompile>
+    <ClCompile Include="shape.cpp">
+      <Filter>소스 파일\chap11</Filter>
+    </ClCompile>
+    <ClCompile Include="inheri_shape.cpp">
+      <Filter>소스 파일\chap11</Filter>
+    </ClCompile>
+    <ClCompile Include="inheri_shape2.cpp">
+      <Filter>소스 파일\chap11</Filter>
+    </ClCompile>
+    <ClCompile Include="colored_rect.cpp">
+      <Filter>소스 파일\chap11</Filter>
+    </ClCompile>
+    <ClCompile Include="protected.cpp">
+      <Filter>소스 파일\chap11</Filter>
+    </ClCompile>
+    <ClCompile Include="inheri_car1.cpp">
+      <Filter>소스 파일\chap11</Filter>
+    </ClCompile>
+    <ClCompile Include="inheri_child.cpp">
+      <Filter>소스 파일\chap11</Filter>
+    </ClCompile>
+    <ClCompile Include="P462.cpp">
+      <Filter>소스 파일\chap11</Filter>
+    </ClCompile>
+    <ClCompile Include="P465.cpp">
+      <Filter>소스 파일\chap11</Filter>
+    </ClCompile>
+    <ClCompile Include="inheri_multi.cpp">
+      <Filter>소스 파일\chap11</Filter>
+    </ClCompile>
+    <ClCompile Include="inheri_multi2.cpp">
+      <Filter>소스 파일\chap11</Filter>
+    </ClCompile>
+    <ClCompile Include="person_1.cpp">
+      <Filter>소스 파일\chap11</Filter>
+    </ClCompile>
+    <ClCompile Include="P472_4.cpp">
+      <Filter>소스 파일\chap11\EXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P473_8.cpp">
+      <Filter>소스 파일\chap11\EXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P475_1.cpp">
+      <Filter>소스 파일\chap11\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P475_2.cpp">
+      <Filter>소스 파일\chap11\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P476_3.cpp">
+      <Filter>소스 파일\chap11\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P476_4.cpp">
+      <Filter>소스 파일\chap11\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P477_5.cpp">
+      <Filter>소스 파일\chap11\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P477_7.cpp">
+      <Filter>소스 파일\chap11\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="animal1.cpp">
+      <Filter>소스 파일\chap12</Filter>
+    </ClCompile>
+    <ClCompile Include="animal2.cpp">
+      <Filter>소스 파일\chap12</Filter>
+    </ClCompile>
+    <ClCompile Include="Shape1.cpp">
+      <Filter>소스 파일\chap12</Filter>
+    </ClCompile>
+    <ClCompile Include="Shape3.cpp">
+      <Filter>소스 파일\chap12</Filter>
+    </ClCompile>
+    <ClCompile Include="Animal4.cpp">
+      <Filter>소스 파일\chap12</Filter>
+    </ClCompile>
+    <ClCompile Include="virtual1.cpp">
+      <Filter>소스 파일\chap12</Filter>
+    </ClCompile>
+    <ClCompile Include="virtual2.cpp">
+      <Filter>소스 파일\chap12</Filter>
+    </ClCompile>
+    <ClCompile Include="Shape4.cpp">
+      <Filter>소스 파일\chap12</Filter>
+    </ClCompile>
+    <ClCompile Include="dungeon.cpp">
+      <Filter>소스 파일\chap12</Filter>
+    </ClCompile>
+    <ClCompile Include="P514_1.cpp">
+      <Filter>소스 파일\chap12\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P514_2.cpp">
+      <Filter>소스 파일\chap12\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P514_3.cpp">
+      <Filter>소스 파일\chap12\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P515_4.cpp">
+      <Filter>소스 파일\chap12\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P515_5.cpp">
+      <Filter>소스 파일\chap12\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="stream_write.cpp">
+      <Filter>소스 파일\chap13</Filter>
+    </ClCompile>
+    <ClCompile Include="stream_read.cpp">
+      <Filter>소스 파일\chap13</Filter>
+    </ClCompile>
+    <ClCompile Include="fileapp.cpp">
+      <Filter>소스 파일\chap13</Filter>
+    </ClCompile>
+    <ClCompile Include="temp_1.cpp">
+      <Filter>소스 파일\chap13</Filter>
+    </ClCompile>
+    <ClCompile Include="temp_2.cpp">
+      <Filter>소스 파일\chap13</Filter>
+    </ClCompile>
+    <ClCompile Include="score.cpp">
+      <Filter>소스 파일\chap13</Filter>
+    </ClCompile>
+    <ClCompile Include="input.cpp">
+      <Filter>소스 파일\chap13</Filter>
+    </ClCompile>
+    <ClCompile Include="getline.cpp">
+      <Filter>소스 파일\chap13</Filter>
+    </ClCompile>
+    <ClCompile Include="score2.cpp">
+      <Filter>소스 파일\chap13</Filter>
+    </ClCompile>
+    <ClCompile Include="binary.cpp">
+      <Filter>소스 파일\chap13</Filter>
+    </ClCompile>
+    <ClCompile Include="binary1.cpp">
+      <Filter>소스 파일\chap13</Filter>
+    </ClCompile>
+    <ClCompile Include="copy_binary.cpp">
+      <Filter>소스 파일\chap13</Filter>
+    </ClCompile>
+    <ClCompile Include="fseek.cpp">
+      <Filter>소스 파일\chap13</Filter>
+    </ClCompile>
+    <ClCompile Include="hangman_1.cpp">
+      <Filter>소스 파일\chap13</Filter>
+    </ClCompile>
+    <ClCompile Include="fseek2.cpp">
+      <Filter>소스 파일\chap13</Filter>
+    </ClCompile>
+    <ClCompile Include="image.cpp">
+      <Filter>소스 파일\chap13</Filter>
+    </ClCompile>
+    <ClCompile Include="P552_1.cpp">
+      <Filter>소스 파일\chap13\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="pizza1_1.cpp">
+      <Filter>소스 파일\chap14</Filter>
+    </ClCompile>
+    <ClCompile Include="pizza2_1.cpp">
+      <Filter>소스 파일\chap14</Filter>
+    </ClCompile>
+    <ClCompile Include="pizza3_1.cpp">
+      <Filter>소스 파일\chap14</Filter>
+    </ClCompile>
+    <ClCompile Include="pizza4.cpp">
+      <Filter>소스 파일\chap14</Filter>
+    </ClCompile>
+    <ClCompile Include="std_error.cpp">
+      <Filter>소스 파일\chap14</Filter>
+    </ClCompile>
+    <ClCompile Include="pizza7.cpp">
+      <Filter>소스 파일\chap14</Filter>
+    </ClCompile>
+    <ClCompile Include="get_max.cpp">
+      <Filter>소스 파일\chap14</Filter>
+    </ClCompile>
+    <ClCompile Include="swap_values.cpp">
+      <Filter>소스 파일\chap14</Filter>
+    </ClCompile>
+    <ClCompile Include="box1.cpp">
+      <Filter>소스 파일\chap14</Filter>
+    </ClCompile>
+    <ClCompile Include="box3.cpp">
+      <Filter>소스 파일\chap14</Filter>
+    </ClCompile>
+    <ClCompile Include="box4.cpp">
+      <Filter>소스 파일\chap14</Filter>
+    </ClCompile>
+    <ClCompile Include="box2_1.cpp">
+      <Filter>소스 파일\chap14</Filter>
+    </ClCompile>
+    <ClCompile Include="P588_8.cpp">
+      <Filter>소스 파일\chap14\EXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="vector.cpp">
+      <Filter>소스 파일\chap15</Filter>
+    </ClCompile>
+    <ClCompile Include="iterator1.cpp">
+      <Filter>소스 파일\chap15</Filter>
+    </ClCompile>
+    <ClCompile Include="iterator2.cpp">
+      <Filter>소스 파일\chap15</Filter>
+    </ClCompile>
+    <ClCompile Include="iterator3.cpp">
+      <Filter>소스 파일\chap15</Filter>
+    </ClCompile>
+    <ClCompile Include="deque.cpp">
+      <Filter>소스 파일\chap15</Filter>
+    </ClCompile>
+    <ClCompile Include="deque1.cpp">
+      <Filter>소스 파일\chap15</Filter>
+    </ClCompile>
+    <ClCompile Include="list1.cpp">
+      <Filter>소스 파일\chap15</Filter>
+    </ClCompile>
+    <ClCompile Include="list2.cpp">
+      <Filter>소스 파일\chap15</Filter>
+    </ClCompile>
+    <ClCompile Include="set1.cpp">
+      <Filter>소스 파일\chap15</Filter>
+    </ClCompile>
+    <ClCompile Include="report_check.cpp">
+      <Filter>소스 파일\chap15</Filter>
+    </ClCompile>
+    <ClCompile Include="map1.cpp">
+      <Filter>소스 파일\chap15</Filter>
+    </ClCompile>
+    <ClCompile Include="dic.cpp">
+      <Filter>소스 파일\chap15</Filter>
+    </ClCompile>
+    <ClCompile Include="word_freq.cpp">
+      <Filter>소스 파일\chap15</Filter>
+    </ClCompile>
+    <ClCompile Include="stack.cpp">
+      <Filter>소스 파일\chap15</Filter>
+    </ClCompile>
+    <ClCompile Include="queue.cpp">
+      <Filter>소스 파일\chap15</Filter>
+    </ClCompile>
+    <ClCompile Include="pqueue.cpp">
+      <Filter>소스 파일\chap15</Filter>
+    </ClCompile>
+    <ClCompile Include="find.cpp">
+      <Filter>소스 파일\chap15</Filter>
+    </ClCompile>
+    <ClCompile Include="find_if.cpp">
+      <Filter>소스 파일\chap15</Filter>
+    </ClCompile>
+    <ClCompile Include="count.cpp">
+      <Filter>소스 파일\chap15</Filter>
+    </ClCompile>
+    <ClCompile Include="binary_search.cpp">
+      <Filter>소스 파일\chap15</Filter>
+    </ClCompile>
+    <ClCompile Include="copy.cpp">
+      <Filter>소스 파일\chap15</Filter>
+    </ClCompile>
+    <ClCompile Include="for_each.cpp">
+      <Filter>소스 파일\chap15</Filter>
+    </ClCompile>
+    <ClCompile Include="sort.cpp">
+      <Filter>소스 파일\chap15</Filter>
+    </ClCompile>
+    <ClCompile Include="lambda.cpp">
+      <Filter>소스 파일\chap15</Filter>
+    </ClCompile>
+    <ClCompile Include="lambda1.cpp">
+      <Filter>소스 파일\chap15</Filter>
+    </ClCompile>
+    <ClCompile Include="lambda2.cpp">
+      <Filter>소스 파일\chap15</Filter>
+    </ClCompile>
+    <ClCompile Include="P643_4.cpp">
+      <Filter>소스 파일\chap15\EXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P643_6.cpp">
+      <Filter>소스 파일\chap15\EXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P644_10.cpp">
+      <Filter>소스 파일\chap15\EXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P645_1.cpp">
+      <Filter>소스 파일\chap15\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P645_2.cpp">
+      <Filter>소스 파일\chap15\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P645_3.cpp">
+      <Filter>소스 파일\chap15\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P646_4.cpp">
+      <Filter>소스 파일\chap15\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P646_5.cpp">
+      <Filter>소스 파일\chap15\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P67_6.cpp">
+      <Filter>소스 파일\chap15\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P647_7.cpp">
+      <Filter>소스 파일\chap15\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P590_1.cpp">
+      <Filter>소스 파일\chap14\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P590_2.cpp">
+      <Filter>소스 파일\chap14\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P590_3.cpp">
+      <Filter>소스 파일\chap14\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P591_4.cpp">
+      <Filter>소스 파일\chap14\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P591_5.cpp">
+      <Filter>소스 파일\chap14\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P591_6.cpp">
+      <Filter>소스 파일\chap14\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+    <ClCompile Include="P592_7.cpp">
+      <Filter>소스 파일\chap14\PROGRAMMINGEXERCISE</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="car.h">
+      <Filter>헤더 파일\chap04</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
