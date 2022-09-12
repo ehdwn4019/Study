@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\Join\bin\Debug\Join.exe.config
+C:\Users\USER\Desktop\이것이C#이다\Join\bin\Debug\Join.exe
+C:\Users\USER\Desktop\이것이C#이다\Join\bin\Debug\Join.pdb
+C:\Users\USER\Desktop\이것이C#이다\Join\obj\Debug\Join.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\Join\obj\Debug\Join.exe
+C:\Users\USER\Desktop\이것이C#이다\Join\obj\Debug\Join.pdb

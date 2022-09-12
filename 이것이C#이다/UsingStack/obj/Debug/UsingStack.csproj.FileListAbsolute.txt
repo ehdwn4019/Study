@@ -1,0 +1,12 @@
+C:\Users\HOME\Desktop\이것이C#이다\UsingStack\bin\Debug\UsingStack.exe.config
+C:\Users\HOME\Desktop\이것이C#이다\UsingStack\bin\Debug\UsingStack.exe
+C:\Users\HOME\Desktop\이것이C#이다\UsingStack\bin\Debug\UsingStack.pdb
+C:\Users\HOME\Desktop\이것이C#이다\UsingStack\obj\Debug\UsingStack.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\이것이C#이다\UsingStack\obj\Debug\UsingStack.exe
+C:\Users\HOME\Desktop\이것이C#이다\UsingStack\obj\Debug\UsingStack.pdb
+C:\Users\USER\Desktop\이것이C#이다\UsingStack\bin\Debug\UsingStack.exe.config
+C:\Users\USER\Desktop\이것이C#이다\UsingStack\bin\Debug\UsingStack.exe
+C:\Users\USER\Desktop\이것이C#이다\UsingStack\bin\Debug\UsingStack.pdb
+C:\Users\USER\Desktop\이것이C#이다\UsingStack\obj\Debug\UsingStack.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\UsingStack\obj\Debug\UsingStack.exe
+C:\Users\USER\Desktop\이것이C#이다\UsingStack\obj\Debug\UsingStack.pdb

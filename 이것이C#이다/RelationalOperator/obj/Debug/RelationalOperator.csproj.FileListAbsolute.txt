@@ -1,0 +1,12 @@
+C:\Users\HOME\Desktop\이것이C#이다\RelationalOperator\bin\Debug\RelationalOperator.exe.config
+C:\Users\HOME\Desktop\이것이C#이다\RelationalOperator\bin\Debug\RelationalOperator.exe
+C:\Users\HOME\Desktop\이것이C#이다\RelationalOperator\bin\Debug\RelationalOperator.pdb
+C:\Users\HOME\Desktop\이것이C#이다\RelationalOperator\obj\Debug\RelationalOperator.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\이것이C#이다\RelationalOperator\obj\Debug\RelationalOperator.exe
+C:\Users\HOME\Desktop\이것이C#이다\RelationalOperator\obj\Debug\RelationalOperator.pdb
+C:\Users\USER\Desktop\이것이C#이다\RelationalOperator\bin\Debug\RelationalOperator.exe.config
+C:\Users\USER\Desktop\이것이C#이다\RelationalOperator\bin\Debug\RelationalOperator.exe
+C:\Users\USER\Desktop\이것이C#이다\RelationalOperator\bin\Debug\RelationalOperator.pdb
+C:\Users\USER\Desktop\이것이C#이다\RelationalOperator\obj\Debug\RelationalOperator.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\RelationalOperator\obj\Debug\RelationalOperator.exe
+C:\Users\USER\Desktop\이것이C#이다\RelationalOperator\obj\Debug\RelationalOperator.pdb

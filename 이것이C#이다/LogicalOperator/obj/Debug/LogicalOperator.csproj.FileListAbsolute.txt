@@ -1,0 +1,13 @@
+C:\Users\HOME\Desktop\이것이C#이다\LogicalOperator\bin\Debug\LogicalOperator.exe.config
+C:\Users\HOME\Desktop\이것이C#이다\LogicalOperator\bin\Debug\LogicalOperator.exe
+C:\Users\HOME\Desktop\이것이C#이다\LogicalOperator\bin\Debug\LogicalOperator.pdb
+C:\Users\HOME\Desktop\이것이C#이다\LogicalOperator\obj\Debug\LogicalOperator.csprojAssemblyReference.cache
+C:\Users\HOME\Desktop\이것이C#이다\LogicalOperator\obj\Debug\LogicalOperator.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\이것이C#이다\LogicalOperator\obj\Debug\LogicalOperator.exe
+C:\Users\HOME\Desktop\이것이C#이다\LogicalOperator\obj\Debug\LogicalOperator.pdb
+C:\Users\USER\Desktop\이것이C#이다\LogicalOperator\bin\Debug\LogicalOperator.exe.config
+C:\Users\USER\Desktop\이것이C#이다\LogicalOperator\bin\Debug\LogicalOperator.exe
+C:\Users\USER\Desktop\이것이C#이다\LogicalOperator\bin\Debug\LogicalOperator.pdb
+C:\Users\USER\Desktop\이것이C#이다\LogicalOperator\obj\Debug\LogicalOperator.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\LogicalOperator\obj\Debug\LogicalOperator.exe
+C:\Users\USER\Desktop\이것이C#이다\LogicalOperator\obj\Debug\LogicalOperator.pdb

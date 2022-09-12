@@ -1,0 +1,12 @@
+C:\Users\HOME\Desktop\이것이C#이다\UsingGenericQueue\bin\Debug\UsingGenericQueue.exe.config
+C:\Users\HOME\Desktop\이것이C#이다\UsingGenericQueue\bin\Debug\UsingGenericQueue.exe
+C:\Users\HOME\Desktop\이것이C#이다\UsingGenericQueue\bin\Debug\UsingGenericQueue.pdb
+C:\Users\HOME\Desktop\이것이C#이다\UsingGenericQueue\obj\Debug\UsingGenericQueue.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\이것이C#이다\UsingGenericQueue\obj\Debug\UsingGenericQueue.exe
+C:\Users\HOME\Desktop\이것이C#이다\UsingGenericQueue\obj\Debug\UsingGenericQueue.pdb
+C:\Users\USER\Desktop\이것이C#이다\UsingGenericQueue\bin\Debug\UsingGenericQueue.exe.config
+C:\Users\USER\Desktop\이것이C#이다\UsingGenericQueue\bin\Debug\UsingGenericQueue.exe
+C:\Users\USER\Desktop\이것이C#이다\UsingGenericQueue\bin\Debug\UsingGenericQueue.pdb
+C:\Users\USER\Desktop\이것이C#이다\UsingGenericQueue\obj\Debug\UsingGenericQueue.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\UsingGenericQueue\obj\Debug\UsingGenericQueue.exe
+C:\Users\USER\Desktop\이것이C#이다\UsingGenericQueue\obj\Debug\UsingGenericQueue.pdb

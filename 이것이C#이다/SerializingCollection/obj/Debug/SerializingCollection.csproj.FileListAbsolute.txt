@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\SerializingCollection\bin\Debug\SerializingCollection.exe.config
+C:\Users\USER\Desktop\이것이C#이다\SerializingCollection\bin\Debug\SerializingCollection.exe
+C:\Users\USER\Desktop\이것이C#이다\SerializingCollection\bin\Debug\SerializingCollection.pdb
+C:\Users\USER\Desktop\이것이C#이다\SerializingCollection\obj\Debug\SerializingCollection.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\SerializingCollection\obj\Debug\SerializingCollection.exe
+C:\Users\USER\Desktop\이것이C#이다\SerializingCollection\obj\Debug\SerializingCollection.pdb

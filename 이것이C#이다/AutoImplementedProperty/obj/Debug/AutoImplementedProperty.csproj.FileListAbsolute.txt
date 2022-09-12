@@ -1,0 +1,13 @@
+C:\Users\HOME\Desktop\이것이C#이다\AutoImplementedProperty\bin\Debug\AutoImplementedProperty.exe.config
+C:\Users\HOME\Desktop\이것이C#이다\AutoImplementedProperty\bin\Debug\AutoImplementedProperty.exe
+C:\Users\HOME\Desktop\이것이C#이다\AutoImplementedProperty\bin\Debug\AutoImplementedProperty.pdb
+C:\Users\HOME\Desktop\이것이C#이다\AutoImplementedProperty\obj\Debug\AutoImplementedProperty.csprojAssemblyReference.cache
+C:\Users\HOME\Desktop\이것이C#이다\AutoImplementedProperty\obj\Debug\AutoImplementedProperty.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\이것이C#이다\AutoImplementedProperty\obj\Debug\AutoImplementedProperty.exe
+C:\Users\HOME\Desktop\이것이C#이다\AutoImplementedProperty\obj\Debug\AutoImplementedProperty.pdb
+C:\Users\USER\Desktop\이것이C#이다\AutoImplementedProperty\bin\Debug\AutoImplementedProperty.exe.config
+C:\Users\USER\Desktop\이것이C#이다\AutoImplementedProperty\bin\Debug\AutoImplementedProperty.exe
+C:\Users\USER\Desktop\이것이C#이다\AutoImplementedProperty\bin\Debug\AutoImplementedProperty.pdb
+C:\Users\USER\Desktop\이것이C#이다\AutoImplementedProperty\obj\Debug\AutoImplementedProperty.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\AutoImplementedProperty\obj\Debug\AutoImplementedProperty.exe
+C:\Users\USER\Desktop\이것이C#이다\AutoImplementedProperty\obj\Debug\AutoImplementedProperty.pdb

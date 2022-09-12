@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\SimpleLambda\bin\Debug\SimpleLambda.exe.config
+C:\Users\USER\Desktop\이것이C#이다\SimpleLambda\bin\Debug\SimpleLambda.exe
+C:\Users\USER\Desktop\이것이C#이다\SimpleLambda\bin\Debug\SimpleLambda.pdb
+C:\Users\USER\Desktop\이것이C#이다\SimpleLambda\obj\Debug\SimpleLambda.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\SimpleLambda\obj\Debug\SimpleLambda.exe
+C:\Users\USER\Desktop\이것이C#이다\SimpleLambda\obj\Debug\SimpleLambda.pdb

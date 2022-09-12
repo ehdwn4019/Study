@@ -1,0 +1,13 @@
+C:\Users\HOME\Desktop\이것이C#이다\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\HOME\Desktop\이것이C#이다\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\HOME\Desktop\이것이C#이다\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\HOME\Desktop\이것이C#이다\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Users\HOME\Desktop\이것이C#이다\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\이것이C#이다\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\HOME\Desktop\이것이C#이다\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\USER\Desktop\이것이C#이다\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\USER\Desktop\이것이C#이다\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\USER\Desktop\이것이C#이다\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\USER\Desktop\이것이C#이다\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\USER\Desktop\이것이C#이다\HelloWorld\obj\Debug\HelloWorld.pdb

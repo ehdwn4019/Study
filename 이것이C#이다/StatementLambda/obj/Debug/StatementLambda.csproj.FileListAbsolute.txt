@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\StatementLambda\bin\Debug\StatementLambda.exe.config
+C:\Users\USER\Desktop\이것이C#이다\StatementLambda\bin\Debug\StatementLambda.exe
+C:\Users\USER\Desktop\이것이C#이다\StatementLambda\bin\Debug\StatementLambda.pdb
+C:\Users\USER\Desktop\이것이C#이다\StatementLambda\obj\Debug\StatementLambda.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\StatementLambda\obj\Debug\StatementLambda.exe
+C:\Users\USER\Desktop\이것이C#이다\StatementLambda\obj\Debug\StatementLambda.pdb

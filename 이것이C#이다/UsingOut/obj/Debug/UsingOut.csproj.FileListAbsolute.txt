@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\UsingOut\bin\Debug\UsingOut.exe.config
+C:\Users\USER\Desktop\이것이C#이다\UsingOut\bin\Debug\UsingOut.exe
+C:\Users\USER\Desktop\이것이C#이다\UsingOut\bin\Debug\UsingOut.pdb
+C:\Users\USER\Desktop\이것이C#이다\UsingOut\obj\Debug\UsingOut.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\UsingOut\obj\Debug\UsingOut.exe
+C:\Users\USER\Desktop\이것이C#이다\UsingOut\obj\Debug\UsingOut.pdb

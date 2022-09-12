@@ -1,0 +1,13 @@
+C:\Users\HOME\Desktop\이것이C#이다\IncDecOperator\bin\Debug\IncDecOperator.exe.config
+C:\Users\HOME\Desktop\이것이C#이다\IncDecOperator\bin\Debug\IncDecOperator.exe
+C:\Users\HOME\Desktop\이것이C#이다\IncDecOperator\bin\Debug\IncDecOperator.pdb
+C:\Users\HOME\Desktop\이것이C#이다\IncDecOperator\obj\Debug\IncDecOperator.csprojAssemblyReference.cache
+C:\Users\HOME\Desktop\이것이C#이다\IncDecOperator\obj\Debug\IncDecOperator.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\이것이C#이다\IncDecOperator\obj\Debug\IncDecOperator.exe
+C:\Users\HOME\Desktop\이것이C#이다\IncDecOperator\obj\Debug\IncDecOperator.pdb
+C:\Users\USER\Desktop\이것이C#이다\IncDecOperator\bin\Debug\IncDecOperator.exe.config
+C:\Users\USER\Desktop\이것이C#이다\IncDecOperator\bin\Debug\IncDecOperator.exe
+C:\Users\USER\Desktop\이것이C#이다\IncDecOperator\bin\Debug\IncDecOperator.pdb
+C:\Users\USER\Desktop\이것이C#이다\IncDecOperator\obj\Debug\IncDecOperator.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\IncDecOperator\obj\Debug\IncDecOperator.exe
+C:\Users\USER\Desktop\이것이C#이다\IncDecOperator\obj\Debug\IncDecOperator.pdb

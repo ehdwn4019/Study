@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\EmitTest\bin\Debug\EmitTest.exe.config
+C:\Users\USER\Desktop\이것이C#이다\EmitTest\bin\Debug\EmitTest.exe
+C:\Users\USER\Desktop\이것이C#이다\EmitTest\bin\Debug\EmitTest.pdb
+C:\Users\USER\Desktop\이것이C#이다\EmitTest\obj\Debug\EmitTest.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\EmitTest\obj\Debug\EmitTest.exe
+C:\Users\USER\Desktop\이것이C#이다\EmitTest\obj\Debug\EmitTest.pdb

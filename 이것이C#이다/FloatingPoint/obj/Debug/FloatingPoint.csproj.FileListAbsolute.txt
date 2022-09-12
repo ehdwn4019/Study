@@ -1,0 +1,13 @@
+C:\Users\HOME\Desktop\이것이C#이다\FloatingPoint\bin\Debug\FloatingPoint.exe.config
+C:\Users\HOME\Desktop\이것이C#이다\FloatingPoint\bin\Debug\FloatingPoint.exe
+C:\Users\HOME\Desktop\이것이C#이다\FloatingPoint\bin\Debug\FloatingPoint.pdb
+C:\Users\HOME\Desktop\이것이C#이다\FloatingPoint\obj\Debug\FloatingPoint.csprojAssemblyReference.cache
+C:\Users\HOME\Desktop\이것이C#이다\FloatingPoint\obj\Debug\FloatingPoint.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\이것이C#이다\FloatingPoint\obj\Debug\FloatingPoint.exe
+C:\Users\HOME\Desktop\이것이C#이다\FloatingPoint\obj\Debug\FloatingPoint.pdb
+C:\Users\USER\Desktop\이것이C#이다\FloatingPoint\bin\Debug\FloatingPoint.exe.config
+C:\Users\USER\Desktop\이것이C#이다\FloatingPoint\bin\Debug\FloatingPoint.exe
+C:\Users\USER\Desktop\이것이C#이다\FloatingPoint\bin\Debug\FloatingPoint.pdb
+C:\Users\USER\Desktop\이것이C#이다\FloatingPoint\obj\Debug\FloatingPoint.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\FloatingPoint\obj\Debug\FloatingPoint.exe
+C:\Users\USER\Desktop\이것이C#이다\FloatingPoint\obj\Debug\FloatingPoint.pdb

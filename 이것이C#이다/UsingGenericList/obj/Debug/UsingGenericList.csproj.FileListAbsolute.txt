@@ -1,0 +1,13 @@
+C:\Users\HOME\Desktop\이것이C#이다\UsingGenericList\bin\Debug\UsingGenericList.exe.config
+C:\Users\HOME\Desktop\이것이C#이다\UsingGenericList\bin\Debug\UsingGenericList.exe
+C:\Users\HOME\Desktop\이것이C#이다\UsingGenericList\bin\Debug\UsingGenericList.pdb
+C:\Users\HOME\Desktop\이것이C#이다\UsingGenericList\obj\Debug\UsingGenericList.csprojAssemblyReference.cache
+C:\Users\HOME\Desktop\이것이C#이다\UsingGenericList\obj\Debug\UsingGenericList.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\이것이C#이다\UsingGenericList\obj\Debug\UsingGenericList.exe
+C:\Users\HOME\Desktop\이것이C#이다\UsingGenericList\obj\Debug\UsingGenericList.pdb
+C:\Users\USER\Desktop\이것이C#이다\UsingGenericList\bin\Debug\UsingGenericList.exe.config
+C:\Users\USER\Desktop\이것이C#이다\UsingGenericList\bin\Debug\UsingGenericList.exe
+C:\Users\USER\Desktop\이것이C#이다\UsingGenericList\bin\Debug\UsingGenericList.pdb
+C:\Users\USER\Desktop\이것이C#이다\UsingGenericList\obj\Debug\UsingGenericList.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\UsingGenericList\obj\Debug\UsingGenericList.exe
+C:\Users\USER\Desktop\이것이C#이다\UsingGenericList\obj\Debug\UsingGenericList.pdb

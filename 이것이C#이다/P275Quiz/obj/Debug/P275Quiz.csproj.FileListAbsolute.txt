@@ -1,0 +1,13 @@
+C:\Users\HOME\Desktop\이것이C#이다\P275Quiz\bin\Debug\P275Quiz.exe.config
+C:\Users\HOME\Desktop\이것이C#이다\P275Quiz\bin\Debug\P275Quiz.exe
+C:\Users\HOME\Desktop\이것이C#이다\P275Quiz\bin\Debug\P275Quiz.pdb
+C:\Users\HOME\Desktop\이것이C#이다\P275Quiz\obj\Debug\P275Quiz.csprojAssemblyReference.cache
+C:\Users\HOME\Desktop\이것이C#이다\P275Quiz\obj\Debug\P275Quiz.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\이것이C#이다\P275Quiz\obj\Debug\P275Quiz.exe
+C:\Users\HOME\Desktop\이것이C#이다\P275Quiz\obj\Debug\P275Quiz.pdb
+C:\Users\USER\Desktop\이것이C#이다\P275Quiz\bin\Debug\P275Quiz.exe.config
+C:\Users\USER\Desktop\이것이C#이다\P275Quiz\bin\Debug\P275Quiz.exe
+C:\Users\USER\Desktop\이것이C#이다\P275Quiz\bin\Debug\P275Quiz.pdb
+C:\Users\USER\Desktop\이것이C#이다\P275Quiz\obj\Debug\P275Quiz.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\P275Quiz\obj\Debug\P275Quiz.exe
+C:\Users\USER\Desktop\이것이C#이다\P275Quiz\obj\Debug\P275Quiz.pdb

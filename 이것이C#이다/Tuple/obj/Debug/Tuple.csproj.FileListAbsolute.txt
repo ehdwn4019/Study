@@ -1,0 +1,7 @@
+C:\Users\HOME\Desktop\이것이C#이다\Tuple\obj\Debug\Tuple.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\Tuple\obj\Debug\Tuple.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\Tuple\bin\Debug\Tuple.exe.config
+C:\Users\USER\Desktop\이것이C#이다\Tuple\bin\Debug\Tuple.exe
+C:\Users\USER\Desktop\이것이C#이다\Tuple\bin\Debug\Tuple.pdb
+C:\Users\USER\Desktop\이것이C#이다\Tuple\obj\Debug\Tuple.exe
+C:\Users\USER\Desktop\이것이C#이다\Tuple\obj\Debug\Tuple.pdb

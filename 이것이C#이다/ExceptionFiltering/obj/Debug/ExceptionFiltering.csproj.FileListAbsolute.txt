@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\ExceptionFiltering\bin\Debug\ExceptionFiltering.exe.config
+C:\Users\USER\Desktop\이것이C#이다\ExceptionFiltering\bin\Debug\ExceptionFiltering.exe
+C:\Users\USER\Desktop\이것이C#이다\ExceptionFiltering\bin\Debug\ExceptionFiltering.pdb
+C:\Users\USER\Desktop\이것이C#이다\ExceptionFiltering\obj\Debug\ExceptionFiltering.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\ExceptionFiltering\obj\Debug\ExceptionFiltering.exe
+C:\Users\USER\Desktop\이것이C#이다\ExceptionFiltering\obj\Debug\ExceptionFiltering.pdb

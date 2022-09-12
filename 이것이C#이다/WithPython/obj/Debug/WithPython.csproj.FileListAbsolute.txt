@@ -1,0 +1,2 @@
+C:\Users\USER\Desktop\이것이C#이다\WithPython\obj\Debug\WithPython.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\이것이C#이다\WithPython\obj\Debug\WithPython.csproj.CoreCompileInputs.cache

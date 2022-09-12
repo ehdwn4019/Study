@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\TextFile\bin\Debug\TextFile.exe.config
+C:\Users\USER\Desktop\이것이C#이다\TextFile\bin\Debug\TextFile.exe
+C:\Users\USER\Desktop\이것이C#이다\TextFile\bin\Debug\TextFile.pdb
+C:\Users\USER\Desktop\이것이C#이다\TextFile\obj\Debug\TextFile.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\TextFile\obj\Debug\TextFile.exe
+C:\Users\USER\Desktop\이것이C#이다\TextFile\obj\Debug\TextFile.pdb

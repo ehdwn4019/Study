@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\UsingExpressionTree\bin\Debug\UsingExpressionTree.exe.config
+C:\Users\USER\Desktop\이것이C#이다\UsingExpressionTree\bin\Debug\UsingExpressionTree.exe
+C:\Users\USER\Desktop\이것이C#이다\UsingExpressionTree\bin\Debug\UsingExpressionTree.pdb
+C:\Users\USER\Desktop\이것이C#이다\UsingExpressionTree\obj\Debug\UsingExpressionTree.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\UsingExpressionTree\obj\Debug\UsingExpressionTree.exe
+C:\Users\USER\Desktop\이것이C#이다\UsingExpressionTree\obj\Debug\UsingExpressionTree.pdb

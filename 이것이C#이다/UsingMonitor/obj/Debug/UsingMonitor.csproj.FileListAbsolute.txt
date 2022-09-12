@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\UsingMonitor\bin\Debug\UsingMonitor.exe.config
+C:\Users\USER\Desktop\이것이C#이다\UsingMonitor\bin\Debug\UsingMonitor.exe
+C:\Users\USER\Desktop\이것이C#이다\UsingMonitor\bin\Debug\UsingMonitor.pdb
+C:\Users\USER\Desktop\이것이C#이다\UsingMonitor\obj\Debug\UsingMonitor.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\UsingMonitor\obj\Debug\UsingMonitor.exe
+C:\Users\USER\Desktop\이것이C#이다\UsingMonitor\obj\Debug\UsingMonitor.pdb

@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\EchoServer\obj\Debug\EchoServer.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\EchoServer\bin\Debug\EchoServer.exe.config
+C:\Users\USER\Desktop\이것이C#이다\EchoServer\bin\Debug\EchoServer.exe
+C:\Users\USER\Desktop\이것이C#이다\EchoServer\bin\Debug\EchoServer.pdb
+C:\Users\USER\Desktop\이것이C#이다\EchoServer\obj\Debug\EchoServer.exe
+C:\Users\USER\Desktop\이것이C#이다\EchoServer\obj\Debug\EchoServer.pdb

@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\Overriding\bin\Debug\Overriding.exe.config
+C:\Users\USER\Desktop\이것이C#이다\Overriding\bin\Debug\Overriding.exe
+C:\Users\USER\Desktop\이것이C#이다\Overriding\bin\Debug\Overriding.pdb
+C:\Users\USER\Desktop\이것이C#이다\Overriding\obj\Debug\Overriding.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\Overriding\obj\Debug\Overriding.exe
+C:\Users\USER\Desktop\이것이C#이다\Overriding\obj\Debug\Overriding.pdb

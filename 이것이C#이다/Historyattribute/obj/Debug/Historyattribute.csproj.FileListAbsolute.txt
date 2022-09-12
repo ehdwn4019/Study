@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\Historyattribute\bin\Debug\Historyattribute.exe.config
+C:\Users\USER\Desktop\이것이C#이다\Historyattribute\bin\Debug\Historyattribute.exe
+C:\Users\USER\Desktop\이것이C#이다\Historyattribute\bin\Debug\Historyattribute.pdb
+C:\Users\USER\Desktop\이것이C#이다\Historyattribute\obj\Debug\Historyattribute.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\Historyattribute\obj\Debug\Historyattribute.exe
+C:\Users\USER\Desktop\이것이C#이다\Historyattribute\obj\Debug\Historyattribute.pdb

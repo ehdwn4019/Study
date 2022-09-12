@@ -1,0 +1,12 @@
+C:\Users\HOME\Desktop\이것이C#이다\PropertiesInAbstractClass\bin\Debug\PropertiesInAbstractClass.exe.config
+C:\Users\HOME\Desktop\이것이C#이다\PropertiesInAbstractClass\bin\Debug\PropertiesInAbstractClass.exe
+C:\Users\HOME\Desktop\이것이C#이다\PropertiesInAbstractClass\bin\Debug\PropertiesInAbstractClass.pdb
+C:\Users\HOME\Desktop\이것이C#이다\PropertiesInAbstractClass\obj\Debug\PropertiesInAbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\이것이C#이다\PropertiesInAbstractClass\obj\Debug\PropertiesInAbstractClass.exe
+C:\Users\HOME\Desktop\이것이C#이다\PropertiesInAbstractClass\obj\Debug\PropertiesInAbstractClass.pdb
+C:\Users\USER\Desktop\이것이C#이다\PropertiesInAbstractClass\bin\Debug\PropertiesInAbstractClass.exe.config
+C:\Users\USER\Desktop\이것이C#이다\PropertiesInAbstractClass\bin\Debug\PropertiesInAbstractClass.exe
+C:\Users\USER\Desktop\이것이C#이다\PropertiesInAbstractClass\bin\Debug\PropertiesInAbstractClass.pdb
+C:\Users\USER\Desktop\이것이C#이다\PropertiesInAbstractClass\obj\Debug\PropertiesInAbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\PropertiesInAbstractClass\obj\Debug\PropertiesInAbstractClass.exe
+C:\Users\USER\Desktop\이것이C#이다\PropertiesInAbstractClass\obj\Debug\PropertiesInAbstractClass.pdb

@@ -1,0 +1,12 @@
+C:\Users\HOME\Desktop\이것이C#이다\UsingVar\bin\Debug\UsingVar.exe.config
+C:\Users\HOME\Desktop\이것이C#이다\UsingVar\bin\Debug\UsingVar.exe
+C:\Users\HOME\Desktop\이것이C#이다\UsingVar\bin\Debug\UsingVar.pdb
+C:\Users\HOME\Desktop\이것이C#이다\UsingVar\obj\Debug\UsingVar.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\이것이C#이다\UsingVar\obj\Debug\UsingVar.exe
+C:\Users\HOME\Desktop\이것이C#이다\UsingVar\obj\Debug\UsingVar.pdb
+C:\Users\USER\Desktop\이것이C#이다\UsingVar\bin\Debug\UsingVar.exe.config
+C:\Users\USER\Desktop\이것이C#이다\UsingVar\bin\Debug\UsingVar.exe
+C:\Users\USER\Desktop\이것이C#이다\UsingVar\bin\Debug\UsingVar.pdb
+C:\Users\USER\Desktop\이것이C#이다\UsingVar\obj\Debug\UsingVar.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\UsingVar\obj\Debug\UsingVar.exe
+C:\Users\USER\Desktop\이것이C#이다\UsingVar\obj\Debug\UsingVar.pdb

@@ -1,0 +1,12 @@
+C:\Users\HOME\Desktop\이것이C#이다\UsingQueue\bin\Debug\UsingQueue.exe.config
+C:\Users\HOME\Desktop\이것이C#이다\UsingQueue\bin\Debug\UsingQueue.exe
+C:\Users\HOME\Desktop\이것이C#이다\UsingQueue\bin\Debug\UsingQueue.pdb
+C:\Users\HOME\Desktop\이것이C#이다\UsingQueue\obj\Debug\UsingQueue.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\이것이C#이다\UsingQueue\obj\Debug\UsingQueue.exe
+C:\Users\HOME\Desktop\이것이C#이다\UsingQueue\obj\Debug\UsingQueue.pdb
+C:\Users\USER\Desktop\이것이C#이다\UsingQueue\bin\Debug\UsingQueue.exe.config
+C:\Users\USER\Desktop\이것이C#이다\UsingQueue\bin\Debug\UsingQueue.exe
+C:\Users\USER\Desktop\이것이C#이다\UsingQueue\bin\Debug\UsingQueue.pdb
+C:\Users\USER\Desktop\이것이C#이다\UsingQueue\obj\Debug\UsingQueue.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\UsingQueue\obj\Debug\UsingQueue.exe
+C:\Users\USER\Desktop\이것이C#이다\UsingQueue\obj\Debug\UsingQueue.pdb

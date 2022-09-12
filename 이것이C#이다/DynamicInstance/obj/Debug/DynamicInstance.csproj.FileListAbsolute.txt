@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\DynamicInstance\bin\Debug\DynamicInstance.exe.config
+C:\Users\USER\Desktop\이것이C#이다\DynamicInstance\bin\Debug\DynamicInstance.exe
+C:\Users\USER\Desktop\이것이C#이다\DynamicInstance\bin\Debug\DynamicInstance.pdb
+C:\Users\USER\Desktop\이것이C#이다\DynamicInstance\obj\Debug\DynamicInstance.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\DynamicInstance\obj\Debug\DynamicInstance.exe
+C:\Users\USER\Desktop\이것이C#이다\DynamicInstance\obj\Debug\DynamicInstance.pdb

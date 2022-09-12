@@ -1,0 +1,12 @@
+C:\Users\HOME\Desktop\이것이C#이다\Yield\bin\Debug\Yield.exe.config
+C:\Users\HOME\Desktop\이것이C#이다\Yield\bin\Debug\Yield.exe
+C:\Users\HOME\Desktop\이것이C#이다\Yield\bin\Debug\Yield.pdb
+C:\Users\HOME\Desktop\이것이C#이다\Yield\obj\Debug\Yield.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\이것이C#이다\Yield\obj\Debug\Yield.exe
+C:\Users\HOME\Desktop\이것이C#이다\Yield\obj\Debug\Yield.pdb
+C:\Users\USER\Desktop\이것이C#이다\Yield\bin\Debug\Yield.exe.config
+C:\Users\USER\Desktop\이것이C#이다\Yield\bin\Debug\Yield.exe
+C:\Users\USER\Desktop\이것이C#이다\Yield\bin\Debug\Yield.pdb
+C:\Users\USER\Desktop\이것이C#이다\Yield\obj\Debug\Yield.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\Yield\obj\Debug\Yield.exe
+C:\Users\USER\Desktop\이것이C#이다\Yield\obj\Debug\Yield.pdb

@@ -1,0 +1,12 @@
+C:\Users\HOME\Desktop\이것이C#이다\TryCatch\bin\Debug\TryCatch.exe.config
+C:\Users\HOME\Desktop\이것이C#이다\TryCatch\bin\Debug\TryCatch.exe
+C:\Users\HOME\Desktop\이것이C#이다\TryCatch\bin\Debug\TryCatch.pdb
+C:\Users\HOME\Desktop\이것이C#이다\TryCatch\obj\Debug\TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\이것이C#이다\TryCatch\obj\Debug\TryCatch.exe
+C:\Users\HOME\Desktop\이것이C#이다\TryCatch\obj\Debug\TryCatch.pdb
+C:\Users\USER\Desktop\이것이C#이다\TryCatch\bin\Debug\TryCatch.exe.config
+C:\Users\USER\Desktop\이것이C#이다\TryCatch\bin\Debug\TryCatch.exe
+C:\Users\USER\Desktop\이것이C#이다\TryCatch\bin\Debug\TryCatch.pdb
+C:\Users\USER\Desktop\이것이C#이다\TryCatch\obj\Debug\TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\TryCatch\obj\Debug\TryCatch.exe
+C:\Users\USER\Desktop\이것이C#이다\TryCatch\obj\Debug\TryCatch.pdb

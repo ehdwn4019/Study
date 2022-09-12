@@ -1,0 +1,13 @@
+C:\Users\HOME\Desktop\이것이C#이다\BitwiseOperator\bin\Debug\BitwiseOperator.exe.config
+C:\Users\HOME\Desktop\이것이C#이다\BitwiseOperator\bin\Debug\BitwiseOperator.exe
+C:\Users\HOME\Desktop\이것이C#이다\BitwiseOperator\bin\Debug\BitwiseOperator.pdb
+C:\Users\HOME\Desktop\이것이C#이다\BitwiseOperator\obj\Debug\BitwiseOperator.csprojAssemblyReference.cache
+C:\Users\HOME\Desktop\이것이C#이다\BitwiseOperator\obj\Debug\BitwiseOperator.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\이것이C#이다\BitwiseOperator\obj\Debug\BitwiseOperator.exe
+C:\Users\HOME\Desktop\이것이C#이다\BitwiseOperator\obj\Debug\BitwiseOperator.pdb
+C:\Users\USER\Desktop\이것이C#이다\BitwiseOperator\bin\Debug\BitwiseOperator.exe.config
+C:\Users\USER\Desktop\이것이C#이다\BitwiseOperator\bin\Debug\BitwiseOperator.exe
+C:\Users\USER\Desktop\이것이C#이다\BitwiseOperator\bin\Debug\BitwiseOperator.pdb
+C:\Users\USER\Desktop\이것이C#이다\BitwiseOperator\obj\Debug\BitwiseOperator.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\BitwiseOperator\obj\Debug\BitwiseOperator.exe
+C:\Users\USER\Desktop\이것이C#이다\BitwiseOperator\obj\Debug\BitwiseOperator.pdb

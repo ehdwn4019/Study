@@ -1,0 +1,12 @@
+C:\Users\HOME\Desktop\이것이C#이다\StringSlice\bin\Debug\StringSlice.exe.config
+C:\Users\HOME\Desktop\이것이C#이다\StringSlice\bin\Debug\StringSlice.exe
+C:\Users\HOME\Desktop\이것이C#이다\StringSlice\bin\Debug\StringSlice.pdb
+C:\Users\HOME\Desktop\이것이C#이다\StringSlice\obj\Debug\StringSlice.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\이것이C#이다\StringSlice\obj\Debug\StringSlice.exe
+C:\Users\HOME\Desktop\이것이C#이다\StringSlice\obj\Debug\StringSlice.pdb
+C:\Users\USER\Desktop\이것이C#이다\StringSlice\bin\Debug\StringSlice.exe.config
+C:\Users\USER\Desktop\이것이C#이다\StringSlice\bin\Debug\StringSlice.exe
+C:\Users\USER\Desktop\이것이C#이다\StringSlice\bin\Debug\StringSlice.pdb
+C:\Users\USER\Desktop\이것이C#이다\StringSlice\obj\Debug\StringSlice.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\StringSlice\obj\Debug\StringSlice.exe
+C:\Users\USER\Desktop\이것이C#이다\StringSlice\obj\Debug\StringSlice.pdb

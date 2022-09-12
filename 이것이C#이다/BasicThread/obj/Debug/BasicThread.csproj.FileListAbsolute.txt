@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\BasicThread\bin\Debug\BasicThread.exe.config
+C:\Users\USER\Desktop\이것이C#이다\BasicThread\bin\Debug\BasicThread.exe
+C:\Users\USER\Desktop\이것이C#이다\BasicThread\bin\Debug\BasicThread.pdb
+C:\Users\USER\Desktop\이것이C#이다\BasicThread\obj\Debug\BasicThread.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\BasicThread\obj\Debug\BasicThread.exe
+C:\Users\USER\Desktop\이것이C#이다\BasicThread\obj\Debug\BasicThread.pdb

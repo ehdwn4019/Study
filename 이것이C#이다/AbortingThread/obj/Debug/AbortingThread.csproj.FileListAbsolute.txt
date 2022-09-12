@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\AbortingThread\bin\Debug\AbortingThread.exe.config
+C:\Users\USER\Desktop\이것이C#이다\AbortingThread\bin\Debug\AbortingThread.exe
+C:\Users\USER\Desktop\이것이C#이다\AbortingThread\bin\Debug\AbortingThread.pdb
+C:\Users\USER\Desktop\이것이C#이다\AbortingThread\obj\Debug\AbortingThread.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\AbortingThread\obj\Debug\AbortingThread.exe
+C:\Users\USER\Desktop\이것이C#이다\AbortingThread\obj\Debug\AbortingThread.pdb

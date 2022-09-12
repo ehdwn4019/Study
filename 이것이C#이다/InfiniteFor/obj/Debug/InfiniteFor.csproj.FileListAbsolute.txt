@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\InfiniteFor\bin\Debug\InfiniteFor.exe.config
+C:\Users\USER\Desktop\이것이C#이다\InfiniteFor\bin\Debug\InfiniteFor.exe
+C:\Users\USER\Desktop\이것이C#이다\InfiniteFor\bin\Debug\InfiniteFor.pdb
+C:\Users\USER\Desktop\이것이C#이다\InfiniteFor\obj\Debug\InfiniteFor.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\InfiniteFor\obj\Debug\InfiniteFor.exe
+C:\Users\USER\Desktop\이것이C#이다\InfiniteFor\obj\Debug\InfiniteFor.pdb

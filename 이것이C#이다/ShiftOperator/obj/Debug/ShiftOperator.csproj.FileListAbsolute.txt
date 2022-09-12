@@ -1,0 +1,13 @@
+C:\Users\HOME\Desktop\이것이C#이다\ShiftOperator\bin\Debug\ShiftOperator.exe.config
+C:\Users\HOME\Desktop\이것이C#이다\ShiftOperator\bin\Debug\ShiftOperator.exe
+C:\Users\HOME\Desktop\이것이C#이다\ShiftOperator\bin\Debug\ShiftOperator.pdb
+C:\Users\HOME\Desktop\이것이C#이다\ShiftOperator\obj\Debug\ShiftOperator.csprojAssemblyReference.cache
+C:\Users\HOME\Desktop\이것이C#이다\ShiftOperator\obj\Debug\ShiftOperator.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\이것이C#이다\ShiftOperator\obj\Debug\ShiftOperator.exe
+C:\Users\HOME\Desktop\이것이C#이다\ShiftOperator\obj\Debug\ShiftOperator.pdb
+C:\Users\USER\Desktop\이것이C#이다\ShiftOperator\bin\Debug\ShiftOperator.exe.config
+C:\Users\USER\Desktop\이것이C#이다\ShiftOperator\bin\Debug\ShiftOperator.exe
+C:\Users\USER\Desktop\이것이C#이다\ShiftOperator\bin\Debug\ShiftOperator.pdb
+C:\Users\USER\Desktop\이것이C#이다\ShiftOperator\obj\Debug\ShiftOperator.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\ShiftOperator\obj\Debug\ShiftOperator.exe
+C:\Users\USER\Desktop\이것이C#이다\ShiftOperator\obj\Debug\ShiftOperator.pdb

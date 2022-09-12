@@ -1,0 +1,12 @@
+C:\Users\HOME\Desktop\이것이C#이다\AnonymousType\bin\Debug\AnonymousType.exe.config
+C:\Users\HOME\Desktop\이것이C#이다\AnonymousType\bin\Debug\AnonymousType.exe
+C:\Users\HOME\Desktop\이것이C#이다\AnonymousType\bin\Debug\AnonymousType.pdb
+C:\Users\HOME\Desktop\이것이C#이다\AnonymousType\obj\Debug\AnonymousType.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\이것이C#이다\AnonymousType\obj\Debug\AnonymousType.exe
+C:\Users\HOME\Desktop\이것이C#이다\AnonymousType\obj\Debug\AnonymousType.pdb
+C:\Users\USER\Desktop\이것이C#이다\AnonymousType\bin\Debug\AnonymousType.exe.config
+C:\Users\USER\Desktop\이것이C#이다\AnonymousType\bin\Debug\AnonymousType.exe
+C:\Users\USER\Desktop\이것이C#이다\AnonymousType\bin\Debug\AnonymousType.pdb
+C:\Users\USER\Desktop\이것이C#이다\AnonymousType\obj\Debug\AnonymousType.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\AnonymousType\obj\Debug\AnonymousType.exe
+C:\Users\USER\Desktop\이것이C#이다\AnonymousType\obj\Debug\AnonymousType.pdb

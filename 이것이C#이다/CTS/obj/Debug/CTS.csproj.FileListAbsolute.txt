@@ -1,0 +1,12 @@
+C:\Users\HOME\Desktop\이것이C#이다\CTS\bin\Debug\CTS.exe.config
+C:\Users\HOME\Desktop\이것이C#이다\CTS\bin\Debug\CTS.exe
+C:\Users\HOME\Desktop\이것이C#이다\CTS\bin\Debug\CTS.pdb
+C:\Users\HOME\Desktop\이것이C#이다\CTS\obj\Debug\CTS.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\이것이C#이다\CTS\obj\Debug\CTS.exe
+C:\Users\HOME\Desktop\이것이C#이다\CTS\obj\Debug\CTS.pdb
+C:\Users\USER\Desktop\이것이C#이다\CTS\bin\Debug\CTS.exe.config
+C:\Users\USER\Desktop\이것이C#이다\CTS\bin\Debug\CTS.exe
+C:\Users\USER\Desktop\이것이C#이다\CTS\bin\Debug\CTS.pdb
+C:\Users\USER\Desktop\이것이C#이다\CTS\obj\Debug\CTS.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\CTS\obj\Debug\CTS.exe
+C:\Users\USER\Desktop\이것이C#이다\CTS\obj\Debug\CTS.pdb

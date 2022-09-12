@@ -1,0 +1,12 @@
+C:\Users\HOME\Desktop\이것이C#이다\StringInterpolation\bin\Debug\StringInterpolation.exe.config
+C:\Users\HOME\Desktop\이것이C#이다\StringInterpolation\bin\Debug\StringInterpolation.exe
+C:\Users\HOME\Desktop\이것이C#이다\StringInterpolation\bin\Debug\StringInterpolation.pdb
+C:\Users\HOME\Desktop\이것이C#이다\StringInterpolation\obj\Debug\StringInterpolation.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\이것이C#이다\StringInterpolation\obj\Debug\StringInterpolation.exe
+C:\Users\HOME\Desktop\이것이C#이다\StringInterpolation\obj\Debug\StringInterpolation.pdb
+C:\Users\USER\Desktop\이것이C#이다\StringInterpolation\bin\Debug\StringInterpolation.exe.config
+C:\Users\USER\Desktop\이것이C#이다\StringInterpolation\bin\Debug\StringInterpolation.exe
+C:\Users\USER\Desktop\이것이C#이다\StringInterpolation\bin\Debug\StringInterpolation.pdb
+C:\Users\USER\Desktop\이것이C#이다\StringInterpolation\obj\Debug\StringInterpolation.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\StringInterpolation\obj\Debug\StringInterpolation.exe
+C:\Users\USER\Desktop\이것이C#이다\StringInterpolation\obj\Debug\StringInterpolation.pdb

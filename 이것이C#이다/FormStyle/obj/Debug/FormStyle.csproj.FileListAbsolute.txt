@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\이것이C#이다\FormStyle\bin\Debug\FormStyle.exe.config
+C:\Users\USER\Desktop\이것이C#이다\FormStyle\bin\Debug\FormStyle.exe
+C:\Users\USER\Desktop\이것이C#이다\FormStyle\bin\Debug\FormStyle.pdb
+C:\Users\USER\Desktop\이것이C#이다\FormStyle\obj\Debug\FormStyle.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\FormStyle\obj\Debug\FormStyle.exe
+C:\Users\USER\Desktop\이것이C#이다\FormStyle\obj\Debug\FormStyle.pdb
+C:\Users\USER\Desktop\이것이C#이다\FormStyle\obj\Debug\FormStyle.csproj.AssemblyReference.cache

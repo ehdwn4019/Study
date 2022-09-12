@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\이것이C#이다\UsingApplication\bin\Debug\UsingApplication.exe.config
+C:\Users\USER\Desktop\이것이C#이다\UsingApplication\bin\Debug\UsingApplication.exe
+C:\Users\USER\Desktop\이것이C#이다\UsingApplication\bin\Debug\UsingApplication.pdb
+C:\Users\USER\Desktop\이것이C#이다\UsingApplication\obj\Debug\UsingApplication.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\UsingApplication\obj\Debug\UsingApplication.exe
+C:\Users\USER\Desktop\이것이C#이다\UsingApplication\obj\Debug\UsingApplication.pdb
+C:\Users\USER\Desktop\이것이C#이다\UsingApplication\obj\Debug\UsingApplication.csproj.AssemblyReference.cache

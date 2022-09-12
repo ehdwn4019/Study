@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\GroupBy\bin\Debug\GroupBy.exe.config
+C:\Users\USER\Desktop\이것이C#이다\GroupBy\bin\Debug\GroupBy.exe
+C:\Users\USER\Desktop\이것이C#이다\GroupBy\bin\Debug\GroupBy.pdb
+C:\Users\USER\Desktop\이것이C#이다\GroupBy\obj\Debug\GroupBy.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\GroupBy\obj\Debug\GroupBy.exe
+C:\Users\USER\Desktop\이것이C#이다\GroupBy\obj\Debug\GroupBy.pdb

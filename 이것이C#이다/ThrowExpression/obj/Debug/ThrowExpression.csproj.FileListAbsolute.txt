@@ -1,0 +1,12 @@
+C:\Users\HOME\Desktop\이것이C#이다\ThrowExpression\bin\Debug\ThrowExpression.exe.config
+C:\Users\HOME\Desktop\이것이C#이다\ThrowExpression\bin\Debug\ThrowExpression.exe
+C:\Users\HOME\Desktop\이것이C#이다\ThrowExpression\bin\Debug\ThrowExpression.pdb
+C:\Users\HOME\Desktop\이것이C#이다\ThrowExpression\obj\Debug\ThrowExpression.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\이것이C#이다\ThrowExpression\obj\Debug\ThrowExpression.exe
+C:\Users\HOME\Desktop\이것이C#이다\ThrowExpression\obj\Debug\ThrowExpression.pdb
+C:\Users\USER\Desktop\이것이C#이다\ThrowExpression\bin\Debug\ThrowExpression.exe.config
+C:\Users\USER\Desktop\이것이C#이다\ThrowExpression\bin\Debug\ThrowExpression.exe
+C:\Users\USER\Desktop\이것이C#이다\ThrowExpression\bin\Debug\ThrowExpression.pdb
+C:\Users\USER\Desktop\이것이C#이다\ThrowExpression\obj\Debug\ThrowExpression.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\ThrowExpression\obj\Debug\ThrowExpression.exe
+C:\Users\USER\Desktop\이것이C#이다\ThrowExpression\obj\Debug\ThrowExpression.pdb

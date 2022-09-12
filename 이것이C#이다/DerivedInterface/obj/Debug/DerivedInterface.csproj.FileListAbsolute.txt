@@ -1,0 +1,12 @@
+C:\Users\HOME\Desktop\이것이C#이다\DerivedInterface\bin\Debug\DerivedInterface.exe.config
+C:\Users\HOME\Desktop\이것이C#이다\DerivedInterface\bin\Debug\DerivedInterface.exe
+C:\Users\HOME\Desktop\이것이C#이다\DerivedInterface\bin\Debug\DerivedInterface.pdb
+C:\Users\HOME\Desktop\이것이C#이다\DerivedInterface\obj\Debug\DerivedInterface.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\이것이C#이다\DerivedInterface\obj\Debug\DerivedInterface.exe
+C:\Users\HOME\Desktop\이것이C#이다\DerivedInterface\obj\Debug\DerivedInterface.pdb
+C:\Users\USER\Desktop\이것이C#이다\DerivedInterface\bin\Debug\DerivedInterface.exe.config
+C:\Users\USER\Desktop\이것이C#이다\DerivedInterface\bin\Debug\DerivedInterface.exe
+C:\Users\USER\Desktop\이것이C#이다\DerivedInterface\bin\Debug\DerivedInterface.pdb
+C:\Users\USER\Desktop\이것이C#이다\DerivedInterface\obj\Debug\DerivedInterface.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\DerivedInterface\obj\Debug\DerivedInterface.exe
+C:\Users\USER\Desktop\이것이C#이다\DerivedInterface\obj\Debug\DerivedInterface.pdb

@@ -1,0 +1,12 @@
+C:\Users\HOME\Desktop\이것이C#이다\Decimal\bin\Debug\Decimal.exe.config
+C:\Users\HOME\Desktop\이것이C#이다\Decimal\bin\Debug\Decimal.exe
+C:\Users\HOME\Desktop\이것이C#이다\Decimal\bin\Debug\Decimal.pdb
+C:\Users\HOME\Desktop\이것이C#이다\Decimal\obj\Debug\Decimal.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\이것이C#이다\Decimal\obj\Debug\Decimal.exe
+C:\Users\HOME\Desktop\이것이C#이다\Decimal\obj\Debug\Decimal.pdb
+C:\Users\USER\Desktop\이것이C#이다\Decimal\bin\Debug\Decimal.exe.config
+C:\Users\USER\Desktop\이것이C#이다\Decimal\bin\Debug\Decimal.exe
+C:\Users\USER\Desktop\이것이C#이다\Decimal\bin\Debug\Decimal.pdb
+C:\Users\USER\Desktop\이것이C#이다\Decimal\obj\Debug\Decimal.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\Decimal\obj\Debug\Decimal.exe
+C:\Users\USER\Desktop\이것이C#이다\Decimal\obj\Debug\Decimal.pdb

@@ -1,0 +1,13 @@
+C:\Users\HOME\Desktop\이것이C#이다\ArraySample\bin\Debug\ArraySample.exe.config
+C:\Users\HOME\Desktop\이것이C#이다\ArraySample\bin\Debug\ArraySample.exe
+C:\Users\HOME\Desktop\이것이C#이다\ArraySample\bin\Debug\ArraySample.pdb
+C:\Users\HOME\Desktop\이것이C#이다\ArraySample\obj\Debug\ArraySample.csprojAssemblyReference.cache
+C:\Users\HOME\Desktop\이것이C#이다\ArraySample\obj\Debug\ArraySample.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\이것이C#이다\ArraySample\obj\Debug\ArraySample.exe
+C:\Users\HOME\Desktop\이것이C#이다\ArraySample\obj\Debug\ArraySample.pdb
+C:\Users\USER\Desktop\이것이C#이다\ArraySample\bin\Debug\ArraySample.exe.config
+C:\Users\USER\Desktop\이것이C#이다\ArraySample\bin\Debug\ArraySample.exe
+C:\Users\USER\Desktop\이것이C#이다\ArraySample\bin\Debug\ArraySample.pdb
+C:\Users\USER\Desktop\이것이C#이다\ArraySample\obj\Debug\ArraySample.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\ArraySample\obj\Debug\ArraySample.exe
+C:\Users\USER\Desktop\이것이C#이다\ArraySample\obj\Debug\ArraySample.pdb

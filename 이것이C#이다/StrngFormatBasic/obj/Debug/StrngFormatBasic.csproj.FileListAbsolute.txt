@@ -1,0 +1,13 @@
+C:\Users\HOME\Desktop\이것이C#이다\StrngFormatBasic\bin\Debug\StrngFormatBasic.exe.config
+C:\Users\HOME\Desktop\이것이C#이다\StrngFormatBasic\bin\Debug\StrngFormatBasic.exe
+C:\Users\HOME\Desktop\이것이C#이다\StrngFormatBasic\bin\Debug\StrngFormatBasic.pdb
+C:\Users\HOME\Desktop\이것이C#이다\StrngFormatBasic\obj\Debug\StrngFormatBasic.csprojAssemblyReference.cache
+C:\Users\HOME\Desktop\이것이C#이다\StrngFormatBasic\obj\Debug\StrngFormatBasic.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\이것이C#이다\StrngFormatBasic\obj\Debug\StrngFormatBasic.exe
+C:\Users\HOME\Desktop\이것이C#이다\StrngFormatBasic\obj\Debug\StrngFormatBasic.pdb
+C:\Users\USER\Desktop\이것이C#이다\StrngFormatBasic\bin\Debug\StrngFormatBasic.exe.config
+C:\Users\USER\Desktop\이것이C#이다\StrngFormatBasic\bin\Debug\StrngFormatBasic.exe
+C:\Users\USER\Desktop\이것이C#이다\StrngFormatBasic\bin\Debug\StrngFormatBasic.pdb
+C:\Users\USER\Desktop\이것이C#이다\StrngFormatBasic\obj\Debug\StrngFormatBasic.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\StrngFormatBasic\obj\Debug\StrngFormatBasic.exe
+C:\Users\USER\Desktop\이것이C#이다\StrngFormatBasic\obj\Debug\StrngFormatBasic.pdb

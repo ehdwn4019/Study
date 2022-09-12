@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\Break\bin\Debug\Break.exe.config
+C:\Users\USER\Desktop\이것이C#이다\Break\bin\Debug\Break.exe
+C:\Users\USER\Desktop\이것이C#이다\Break\bin\Debug\Break.pdb
+C:\Users\USER\Desktop\이것이C#이다\Break\obj\Debug\Break.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\Break\obj\Debug\Break.exe
+C:\Users\USER\Desktop\이것이C#이다\Break\obj\Debug\Break.pdb

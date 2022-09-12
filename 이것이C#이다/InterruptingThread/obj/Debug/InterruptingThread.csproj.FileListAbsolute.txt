@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\InterruptingThread\bin\Debug\InterruptingThread.exe.config
+C:\Users\USER\Desktop\이것이C#이다\InterruptingThread\bin\Debug\InterruptingThread.exe
+C:\Users\USER\Desktop\이것이C#이다\InterruptingThread\bin\Debug\InterruptingThread.pdb
+C:\Users\USER\Desktop\이것이C#이다\InterruptingThread\obj\Debug\InterruptingThread.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\InterruptingThread\obj\Debug\InterruptingThread.exe
+C:\Users\USER\Desktop\이것이C#이다\InterruptingThread\obj\Debug\InterruptingThread.pdb

@@ -1,0 +1,13 @@
+C:\Users\HOME\Desktop\이것이C#이다\Throw\bin\Debug\Throw.exe.config
+C:\Users\HOME\Desktop\이것이C#이다\Throw\bin\Debug\Throw.exe
+C:\Users\HOME\Desktop\이것이C#이다\Throw\bin\Debug\Throw.pdb
+C:\Users\HOME\Desktop\이것이C#이다\Throw\obj\Debug\Throw.csprojAssemblyReference.cache
+C:\Users\HOME\Desktop\이것이C#이다\Throw\obj\Debug\Throw.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\이것이C#이다\Throw\obj\Debug\Throw.exe
+C:\Users\HOME\Desktop\이것이C#이다\Throw\obj\Debug\Throw.pdb
+C:\Users\USER\Desktop\이것이C#이다\Throw\bin\Debug\Throw.exe.config
+C:\Users\USER\Desktop\이것이C#이다\Throw\bin\Debug\Throw.exe
+C:\Users\USER\Desktop\이것이C#이다\Throw\bin\Debug\Throw.pdb
+C:\Users\USER\Desktop\이것이C#이다\Throw\obj\Debug\Throw.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\Throw\obj\Debug\Throw.exe
+C:\Users\USER\Desktop\이것이C#이다\Throw\obj\Debug\Throw.pdb

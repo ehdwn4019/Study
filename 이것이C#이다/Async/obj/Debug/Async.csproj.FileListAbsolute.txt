@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\Async\bin\Debug\Async.exe.config
+C:\Users\USER\Desktop\이것이C#이다\Async\bin\Debug\Async.exe
+C:\Users\USER\Desktop\이것이C#이다\Async\bin\Debug\Async.pdb
+C:\Users\USER\Desktop\이것이C#이다\Async\obj\Debug\Async.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\Async\obj\Debug\Async.exe
+C:\Users\USER\Desktop\이것이C#이다\Async\obj\Debug\Async.pdb

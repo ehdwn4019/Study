@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\BasicAttribute\bin\Debug\BasicAttribute.exe.config
+C:\Users\USER\Desktop\이것이C#이다\BasicAttribute\bin\Debug\BasicAttribute.exe
+C:\Users\USER\Desktop\이것이C#이다\BasicAttribute\bin\Debug\BasicAttribute.pdb
+C:\Users\USER\Desktop\이것이C#이다\BasicAttribute\obj\Debug\BasicAttribute.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\BasicAttribute\obj\Debug\BasicAttribute.exe
+C:\Users\USER\Desktop\이것이C#이다\BasicAttribute\obj\Debug\BasicAttribute.pdb

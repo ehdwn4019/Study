@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\이것이C#이다\AsyncfileIOWinForm\bin\Debug\AsyncfileIOWinForm.exe.config
+C:\Users\USER\Desktop\이것이C#이다\AsyncfileIOWinForm\bin\Debug\AsyncfileIOWinForm.exe
+C:\Users\USER\Desktop\이것이C#이다\AsyncfileIOWinForm\bin\Debug\AsyncfileIOWinForm.pdb
+C:\Users\USER\Desktop\이것이C#이다\AsyncfileIOWinForm\obj\Debug\AsyncfileIOWinForm.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\이것이C#이다\AsyncfileIOWinForm\obj\Debug\AsyncfileIOWinForm.MainForm.resources
+C:\Users\USER\Desktop\이것이C#이다\AsyncfileIOWinForm\obj\Debug\AsyncfileIOWinForm.Properties.Resources.resources
+C:\Users\USER\Desktop\이것이C#이다\AsyncfileIOWinForm\obj\Debug\AsyncfileIOWinForm.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\이것이C#이다\AsyncfileIOWinForm\obj\Debug\AsyncfileIOWinForm.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\AsyncfileIOWinForm\obj\Debug\AsyncfileIOWinForm.exe
+C:\Users\USER\Desktop\이것이C#이다\AsyncfileIOWinForm\obj\Debug\AsyncfileIOWinForm.pdb

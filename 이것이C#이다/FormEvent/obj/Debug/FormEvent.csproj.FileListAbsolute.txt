@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\이것이C#이다\FormEvent\bin\Debug\FormEvent.exe.config
+C:\Users\USER\Desktop\이것이C#이다\FormEvent\bin\Debug\FormEvent.exe
+C:\Users\USER\Desktop\이것이C#이다\FormEvent\bin\Debug\FormEvent.pdb
+C:\Users\USER\Desktop\이것이C#이다\FormEvent\obj\Debug\FormEvent.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\FormEvent\obj\Debug\FormEvent.exe
+C:\Users\USER\Desktop\이것이C#이다\FormEvent\obj\Debug\FormEvent.pdb
+C:\Users\USER\Desktop\이것이C#이다\FormEvent\obj\Debug\FormEvent.csproj.AssemblyReference.cache

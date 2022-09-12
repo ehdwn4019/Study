@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\Touch\bin\Debug\Touch.exe.config
+C:\Users\USER\Desktop\이것이C#이다\Touch\bin\Debug\Touch.exe
+C:\Users\USER\Desktop\이것이C#이다\Touch\bin\Debug\Touch.pdb
+C:\Users\USER\Desktop\이것이C#이다\Touch\obj\Debug\Touch.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\Touch\obj\Debug\Touch.exe
+C:\Users\USER\Desktop\이것이C#이다\Touch\obj\Debug\Touch.pdb

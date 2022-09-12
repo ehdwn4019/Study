@@ -1,0 +1,12 @@
+C:\Users\HOME\Desktop\이것이C#이다\IntegerLiterals\bin\Debug\IntegerLiterals.exe.config
+C:\Users\HOME\Desktop\이것이C#이다\IntegerLiterals\bin\Debug\IntegerLiterals.exe
+C:\Users\HOME\Desktop\이것이C#이다\IntegerLiterals\bin\Debug\IntegerLiterals.pdb
+C:\Users\HOME\Desktop\이것이C#이다\IntegerLiterals\obj\Debug\IntegerLiterals.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\이것이C#이다\IntegerLiterals\obj\Debug\IntegerLiterals.exe
+C:\Users\HOME\Desktop\이것이C#이다\IntegerLiterals\obj\Debug\IntegerLiterals.pdb
+C:\Users\USER\Desktop\이것이C#이다\IntegerLiterals\bin\Debug\IntegerLiterals.exe.config
+C:\Users\USER\Desktop\이것이C#이다\IntegerLiterals\bin\Debug\IntegerLiterals.exe
+C:\Users\USER\Desktop\이것이C#이다\IntegerLiterals\bin\Debug\IntegerLiterals.pdb
+C:\Users\USER\Desktop\이것이C#이다\IntegerLiterals\obj\Debug\IntegerLiterals.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\IntegerLiterals\obj\Debug\IntegerLiterals.exe
+C:\Users\USER\Desktop\이것이C#이다\IntegerLiterals\obj\Debug\IntegerLiterals.pdb

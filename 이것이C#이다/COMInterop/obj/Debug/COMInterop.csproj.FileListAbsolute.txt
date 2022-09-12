@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\COMInterop\bin\Debug\COMInterop.exe.config
+C:\Users\USER\Desktop\이것이C#이다\COMInterop\bin\Debug\COMInterop.exe
+C:\Users\USER\Desktop\이것이C#이다\COMInterop\bin\Debug\COMInterop.pdb
+C:\Users\USER\Desktop\이것이C#이다\COMInterop\obj\Debug\COMInterop.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\COMInterop\obj\Debug\COMInterop.exe
+C:\Users\USER\Desktop\이것이C#이다\COMInterop\obj\Debug\COMInterop.pdb

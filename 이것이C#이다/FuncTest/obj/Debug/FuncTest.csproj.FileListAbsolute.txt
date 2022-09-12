@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\FuncTest\bin\Debug\FuncTest.exe.config
+C:\Users\USER\Desktop\이것이C#이다\FuncTest\bin\Debug\FuncTest.exe
+C:\Users\USER\Desktop\이것이C#이다\FuncTest\bin\Debug\FuncTest.pdb
+C:\Users\USER\Desktop\이것이C#이다\FuncTest\obj\Debug\FuncTest.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\FuncTest\obj\Debug\FuncTest.exe
+C:\Users\USER\Desktop\이것이C#이다\FuncTest\obj\Debug\FuncTest.pdb

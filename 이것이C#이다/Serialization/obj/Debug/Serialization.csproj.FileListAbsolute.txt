@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\Serialization\bin\Debug\Serialization.exe.config
+C:\Users\USER\Desktop\이것이C#이다\Serialization\bin\Debug\Serialization.exe
+C:\Users\USER\Desktop\이것이C#이다\Serialization\bin\Debug\Serialization.pdb
+C:\Users\USER\Desktop\이것이C#이다\Serialization\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\Serialization\obj\Debug\Serialization.exe
+C:\Users\USER\Desktop\이것이C#이다\Serialization\obj\Debug\Serialization.pdb

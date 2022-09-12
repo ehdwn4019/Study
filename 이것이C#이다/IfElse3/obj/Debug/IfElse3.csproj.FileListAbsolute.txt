@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\IfElse3\bin\Debug\IfElse3.exe.config
+C:\Users\USER\Desktop\이것이C#이다\IfElse3\bin\Debug\IfElse3.exe
+C:\Users\USER\Desktop\이것이C#이다\IfElse3\bin\Debug\IfElse3.pdb
+C:\Users\USER\Desktop\이것이C#이다\IfElse3\obj\Debug\IfElse3.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\IfElse3\obj\Debug\IfElse3.exe
+C:\Users\USER\Desktop\이것이C#이다\IfElse3\obj\Debug\IfElse3.pdb

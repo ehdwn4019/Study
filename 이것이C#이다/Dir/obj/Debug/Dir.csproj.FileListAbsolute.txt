@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\Dir\bin\Debug\Dir.exe.config
+C:\Users\USER\Desktop\이것이C#이다\Dir\bin\Debug\Dir.exe
+C:\Users\USER\Desktop\이것이C#이다\Dir\bin\Debug\Dir.pdb
+C:\Users\USER\Desktop\이것이C#이다\Dir\obj\Debug\Dir.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\Dir\obj\Debug\Dir.exe
+C:\Users\USER\Desktop\이것이C#이다\Dir\obj\Debug\Dir.pdb

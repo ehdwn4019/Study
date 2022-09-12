@@ -1,0 +1,12 @@
+C:\Users\HOME\Desktop\이것이C#이다\InitializingArray\bin\Debug\InitializingArray.exe.config
+C:\Users\HOME\Desktop\이것이C#이다\InitializingArray\bin\Debug\InitializingArray.exe
+C:\Users\HOME\Desktop\이것이C#이다\InitializingArray\bin\Debug\InitializingArray.pdb
+C:\Users\HOME\Desktop\이것이C#이다\InitializingArray\obj\Debug\InitializingArray.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\이것이C#이다\InitializingArray\obj\Debug\InitializingArray.exe
+C:\Users\HOME\Desktop\이것이C#이다\InitializingArray\obj\Debug\InitializingArray.pdb
+C:\Users\USER\Desktop\이것이C#이다\InitializingArray\bin\Debug\InitializingArray.exe.config
+C:\Users\USER\Desktop\이것이C#이다\InitializingArray\bin\Debug\InitializingArray.exe
+C:\Users\USER\Desktop\이것이C#이다\InitializingArray\bin\Debug\InitializingArray.pdb
+C:\Users\USER\Desktop\이것이C#이다\InitializingArray\obj\Debug\InitializingArray.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\InitializingArray\obj\Debug\InitializingArray.exe
+C:\Users\USER\Desktop\이것이C#이다\InitializingArray\obj\Debug\InitializingArray.pdb

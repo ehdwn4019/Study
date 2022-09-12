@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\SimpleLinq\bin\Debug\SimpleLinq.exe.config
+C:\Users\USER\Desktop\이것이C#이다\SimpleLinq\bin\Debug\SimpleLinq.exe
+C:\Users\USER\Desktop\이것이C#이다\SimpleLinq\bin\Debug\SimpleLinq.pdb
+C:\Users\USER\Desktop\이것이C#이다\SimpleLinq\obj\Debug\SimpleLinq.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\SimpleLinq\obj\Debug\SimpleLinq.exe
+C:\Users\USER\Desktop\이것이C#이다\SimpleLinq\obj\Debug\SimpleLinq.pdb

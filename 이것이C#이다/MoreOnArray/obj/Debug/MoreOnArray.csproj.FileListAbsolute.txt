@@ -1,0 +1,12 @@
+C:\Users\HOME\Desktop\이것이C#이다\MoreOnArray\bin\Debug\MoreOnArray.exe.config
+C:\Users\HOME\Desktop\이것이C#이다\MoreOnArray\bin\Debug\MoreOnArray.exe
+C:\Users\HOME\Desktop\이것이C#이다\MoreOnArray\bin\Debug\MoreOnArray.pdb
+C:\Users\HOME\Desktop\이것이C#이다\MoreOnArray\obj\Debug\MoreOnArray.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\이것이C#이다\MoreOnArray\obj\Debug\MoreOnArray.exe
+C:\Users\HOME\Desktop\이것이C#이다\MoreOnArray\obj\Debug\MoreOnArray.pdb
+C:\Users\USER\Desktop\이것이C#이다\MoreOnArray\bin\Debug\MoreOnArray.exe.config
+C:\Users\USER\Desktop\이것이C#이다\MoreOnArray\bin\Debug\MoreOnArray.exe
+C:\Users\USER\Desktop\이것이C#이다\MoreOnArray\bin\Debug\MoreOnArray.pdb
+C:\Users\USER\Desktop\이것이C#이다\MoreOnArray\obj\Debug\MoreOnArray.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\MoreOnArray\obj\Debug\MoreOnArray.exe
+C:\Users\USER\Desktop\이것이C#이다\MoreOnArray\obj\Debug\MoreOnArray.pdb

@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\SimpleWindow\bin\Debug\SimpleWindow.exe.config
+C:\Users\USER\Desktop\이것이C#이다\SimpleWindow\bin\Debug\SimpleWindow.exe
+C:\Users\USER\Desktop\이것이C#이다\SimpleWindow\bin\Debug\SimpleWindow.pdb
+C:\Users\USER\Desktop\이것이C#이다\SimpleWindow\obj\Debug\SimpleWindow.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\SimpleWindow\obj\Debug\SimpleWindow.exe
+C:\Users\USER\Desktop\이것이C#이다\SimpleWindow\obj\Debug\SimpleWindow.pdb

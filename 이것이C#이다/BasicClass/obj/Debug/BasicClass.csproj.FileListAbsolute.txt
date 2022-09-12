@@ -1,0 +1,13 @@
+C:\Users\HOME\Desktop\이것이C#이다\BasicClass\bin\Debug\BasicClass.exe.config
+C:\Users\HOME\Desktop\이것이C#이다\BasicClass\bin\Debug\BasicClass.exe
+C:\Users\HOME\Desktop\이것이C#이다\BasicClass\bin\Debug\BasicClass.pdb
+C:\Users\HOME\Desktop\이것이C#이다\BasicClass\obj\Debug\BasicClass.csprojAssemblyReference.cache
+C:\Users\HOME\Desktop\이것이C#이다\BasicClass\obj\Debug\BasicClass.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\이것이C#이다\BasicClass\obj\Debug\BasicClass.exe
+C:\Users\HOME\Desktop\이것이C#이다\BasicClass\obj\Debug\BasicClass.pdb
+C:\Users\USER\Desktop\이것이C#이다\BasicClass\bin\Debug\BasicClass.exe.config
+C:\Users\USER\Desktop\이것이C#이다\BasicClass\bin\Debug\BasicClass.exe
+C:\Users\USER\Desktop\이것이C#이다\BasicClass\bin\Debug\BasicClass.pdb
+C:\Users\USER\Desktop\이것이C#이다\BasicClass\obj\Debug\BasicClass.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\BasicClass\obj\Debug\BasicClass.exe
+C:\Users\USER\Desktop\이것이C#이다\BasicClass\obj\Debug\BasicClass.pdb

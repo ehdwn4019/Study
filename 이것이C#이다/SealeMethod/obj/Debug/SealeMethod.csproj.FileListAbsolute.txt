@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\SealeMethod\obj\Debug\SealeMethod.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\SealeMethod\bin\Debug\SealeMethod.exe.config
+C:\Users\USER\Desktop\이것이C#이다\SealeMethod\bin\Debug\SealeMethod.exe
+C:\Users\USER\Desktop\이것이C#이다\SealeMethod\bin\Debug\SealeMethod.pdb
+C:\Users\USER\Desktop\이것이C#이다\SealeMethod\obj\Debug\SealeMethod.exe
+C:\Users\USER\Desktop\이것이C#이다\SealeMethod\obj\Debug\SealeMethod.pdb

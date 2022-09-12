@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\IfIf\bin\Debug\IfIf.exe.config
+C:\Users\USER\Desktop\이것이C#이다\IfIf\bin\Debug\IfIf.exe
+C:\Users\USER\Desktop\이것이C#이다\IfIf\bin\Debug\IfIf.pdb
+C:\Users\USER\Desktop\이것이C#이다\IfIf\obj\Debug\IfIf.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\IfIf\obj\Debug\IfIf.exe
+C:\Users\USER\Desktop\이것이C#이다\IfIf\obj\Debug\IfIf.pdb

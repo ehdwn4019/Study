@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\Switch2\bin\Debug\Switch2.exe.config
+C:\Users\USER\Desktop\이것이C#이다\Switch2\bin\Debug\Switch2.exe
+C:\Users\USER\Desktop\이것이C#이다\Switch2\bin\Debug\Switch2.pdb
+C:\Users\USER\Desktop\이것이C#이다\Switch2\obj\Debug\Switch2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\Switch2\obj\Debug\Switch2.exe
+C:\Users\USER\Desktop\이것이C#이다\Switch2\obj\Debug\Switch2.pdb

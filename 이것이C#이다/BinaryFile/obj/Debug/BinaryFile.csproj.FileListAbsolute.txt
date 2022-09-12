@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\BinaryFile\bin\Debug\BinaryFile.exe.config
+C:\Users\USER\Desktop\이것이C#이다\BinaryFile\bin\Debug\BinaryFile.exe
+C:\Users\USER\Desktop\이것이C#이다\BinaryFile\bin\Debug\BinaryFile.pdb
+C:\Users\USER\Desktop\이것이C#이다\BinaryFile\obj\Debug\BinaryFile.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\BinaryFile\obj\Debug\BinaryFile.exe
+C:\Users\USER\Desktop\이것이C#이다\BinaryFile\obj\Debug\BinaryFile.pdb

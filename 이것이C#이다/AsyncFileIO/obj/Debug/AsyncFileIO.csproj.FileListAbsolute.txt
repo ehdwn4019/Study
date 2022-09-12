@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\AsyncFileIO\bin\Debug\AsyncFileIO.exe.config
+C:\Users\USER\Desktop\이것이C#이다\AsyncFileIO\bin\Debug\AsyncFileIO.exe
+C:\Users\USER\Desktop\이것이C#이다\AsyncFileIO\bin\Debug\AsyncFileIO.pdb
+C:\Users\USER\Desktop\이것이C#이다\AsyncFileIO\obj\Debug\AsyncFileIO.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\AsyncFileIO\obj\Debug\AsyncFileIO.exe
+C:\Users\USER\Desktop\이것이C#이다\AsyncFileIO\obj\Debug\AsyncFileIO.pdb

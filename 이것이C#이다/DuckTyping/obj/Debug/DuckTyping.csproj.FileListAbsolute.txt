@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\DuckTyping\bin\Debug\DuckTyping.exe.config
+C:\Users\USER\Desktop\이것이C#이다\DuckTyping\bin\Debug\DuckTyping.exe
+C:\Users\USER\Desktop\이것이C#이다\DuckTyping\bin\Debug\DuckTyping.pdb
+C:\Users\USER\Desktop\이것이C#이다\DuckTyping\obj\Debug\DuckTyping.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\DuckTyping\obj\Debug\DuckTyping.exe
+C:\Users\USER\Desktop\이것이C#이다\DuckTyping\obj\Debug\DuckTyping.pdb

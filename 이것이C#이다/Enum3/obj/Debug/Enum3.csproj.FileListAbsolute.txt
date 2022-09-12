@@ -1,0 +1,12 @@
+C:\Users\HOME\Desktop\이것이C#이다\Enum3\bin\Debug\Enum3.exe.config
+C:\Users\HOME\Desktop\이것이C#이다\Enum3\bin\Debug\Enum3.exe
+C:\Users\HOME\Desktop\이것이C#이다\Enum3\bin\Debug\Enum3.pdb
+C:\Users\HOME\Desktop\이것이C#이다\Enum3\obj\Debug\Enum3.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\이것이C#이다\Enum3\obj\Debug\Enum3.exe
+C:\Users\HOME\Desktop\이것이C#이다\Enum3\obj\Debug\Enum3.pdb
+C:\Users\USER\Desktop\이것이C#이다\Enum3\bin\Debug\Enum3.exe.config
+C:\Users\USER\Desktop\이것이C#이다\Enum3\bin\Debug\Enum3.exe
+C:\Users\USER\Desktop\이것이C#이다\Enum3\bin\Debug\Enum3.pdb
+C:\Users\USER\Desktop\이것이C#이다\Enum3\obj\Debug\Enum3.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\Enum3\obj\Debug\Enum3.exe
+C:\Users\USER\Desktop\이것이C#이다\Enum3\obj\Debug\Enum3.pdb

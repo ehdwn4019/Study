@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\TaskResult\bin\Debug\TaskResult.exe.config
+C:\Users\USER\Desktop\이것이C#이다\TaskResult\bin\Debug\TaskResult.exe
+C:\Users\USER\Desktop\이것이C#이다\TaskResult\bin\Debug\TaskResult.pdb
+C:\Users\USER\Desktop\이것이C#이다\TaskResult\obj\Debug\TaskResult.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\TaskResult\obj\Debug\TaskResult.exe
+C:\Users\USER\Desktop\이것이C#이다\TaskResult\obj\Debug\TaskResult.pdb

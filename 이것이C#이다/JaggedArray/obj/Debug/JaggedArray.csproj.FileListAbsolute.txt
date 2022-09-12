@@ -1,0 +1,12 @@
+C:\Users\HOME\Desktop\이것이C#이다\JaggedArray\bin\Debug\JaggedArray.exe.config
+C:\Users\HOME\Desktop\이것이C#이다\JaggedArray\bin\Debug\JaggedArray.exe
+C:\Users\HOME\Desktop\이것이C#이다\JaggedArray\bin\Debug\JaggedArray.pdb
+C:\Users\HOME\Desktop\이것이C#이다\JaggedArray\obj\Debug\JaggedArray.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\이것이C#이다\JaggedArray\obj\Debug\JaggedArray.exe
+C:\Users\HOME\Desktop\이것이C#이다\JaggedArray\obj\Debug\JaggedArray.pdb
+C:\Users\USER\Desktop\이것이C#이다\JaggedArray\bin\Debug\JaggedArray.exe.config
+C:\Users\USER\Desktop\이것이C#이다\JaggedArray\bin\Debug\JaggedArray.exe
+C:\Users\USER\Desktop\이것이C#이다\JaggedArray\bin\Debug\JaggedArray.pdb
+C:\Users\USER\Desktop\이것이C#이다\JaggedArray\obj\Debug\JaggedArray.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\JaggedArray\obj\Debug\JaggedArray.exe
+C:\Users\USER\Desktop\이것이C#이다\JaggedArray\obj\Debug\JaggedArray.pdb

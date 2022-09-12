@@ -1,0 +1,12 @@
+C:\Users\HOME\Desktop\이것이C#이다\6-1\bin\Debug\6-1.exe.config
+C:\Users\HOME\Desktop\이것이C#이다\6-1\bin\Debug\6-1.exe
+C:\Users\HOME\Desktop\이것이C#이다\6-1\bin\Debug\6-1.pdb
+C:\Users\HOME\Desktop\이것이C#이다\6-1\obj\Debug\6-1.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\이것이C#이다\6-1\obj\Debug\6-1.exe
+C:\Users\HOME\Desktop\이것이C#이다\6-1\obj\Debug\6-1.pdb
+C:\Users\USER\Desktop\이것이C#이다\6-1\bin\Debug\6-1.exe.config
+C:\Users\USER\Desktop\이것이C#이다\6-1\bin\Debug\6-1.exe
+C:\Users\USER\Desktop\이것이C#이다\6-1\bin\Debug\6-1.pdb
+C:\Users\USER\Desktop\이것이C#이다\6-1\obj\Debug\6-1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\6-1\obj\Debug\6-1.exe
+C:\Users\USER\Desktop\이것이C#이다\6-1\obj\Debug\6-1.pdb

@@ -1,0 +1,12 @@
+C:\Users\HOME\Desktop\이것이C#이다\PropertiesInInterface\bin\Debug\PropertiesInInterface.exe.config
+C:\Users\HOME\Desktop\이것이C#이다\PropertiesInInterface\bin\Debug\PropertiesInInterface.exe
+C:\Users\HOME\Desktop\이것이C#이다\PropertiesInInterface\bin\Debug\PropertiesInInterface.pdb
+C:\Users\HOME\Desktop\이것이C#이다\PropertiesInInterface\obj\Debug\PropertiesInInterface.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\이것이C#이다\PropertiesInInterface\obj\Debug\PropertiesInInterface.exe
+C:\Users\HOME\Desktop\이것이C#이다\PropertiesInInterface\obj\Debug\PropertiesInInterface.pdb
+C:\Users\USER\Desktop\이것이C#이다\PropertiesInInterface\bin\Debug\PropertiesInInterface.exe.config
+C:\Users\USER\Desktop\이것이C#이다\PropertiesInInterface\bin\Debug\PropertiesInInterface.exe
+C:\Users\USER\Desktop\이것이C#이다\PropertiesInInterface\bin\Debug\PropertiesInInterface.pdb
+C:\Users\USER\Desktop\이것이C#이다\PropertiesInInterface\obj\Debug\PropertiesInInterface.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\PropertiesInInterface\obj\Debug\PropertiesInInterface.exe
+C:\Users\USER\Desktop\이것이C#이다\PropertiesInInterface\obj\Debug\PropertiesInInterface.pdb

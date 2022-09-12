@@ -1,0 +1,12 @@
+C:\Users\HOME\Desktop\이것이C#이다\AssignmentOperator\bin\Debug\AssignmentOperator.exe.config
+C:\Users\HOME\Desktop\이것이C#이다\AssignmentOperator\bin\Debug\AssignmentOperator.exe
+C:\Users\HOME\Desktop\이것이C#이다\AssignmentOperator\bin\Debug\AssignmentOperator.pdb
+C:\Users\HOME\Desktop\이것이C#이다\AssignmentOperator\obj\Debug\AssignmentOperator.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\이것이C#이다\AssignmentOperator\obj\Debug\AssignmentOperator.exe
+C:\Users\HOME\Desktop\이것이C#이다\AssignmentOperator\obj\Debug\AssignmentOperator.pdb
+C:\Users\USER\Desktop\이것이C#이다\AssignmentOperator\bin\Debug\AssignmentOperator.exe.config
+C:\Users\USER\Desktop\이것이C#이다\AssignmentOperator\bin\Debug\AssignmentOperator.exe
+C:\Users\USER\Desktop\이것이C#이다\AssignmentOperator\bin\Debug\AssignmentOperator.pdb
+C:\Users\USER\Desktop\이것이C#이다\AssignmentOperator\obj\Debug\AssignmentOperator.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\AssignmentOperator\obj\Debug\AssignmentOperator.exe
+C:\Users\USER\Desktop\이것이C#이다\AssignmentOperator\obj\Debug\AssignmentOperator.pdb

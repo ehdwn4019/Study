@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\EventTest\bin\Debug\EventTest.exe.config
+C:\Users\USER\Desktop\이것이C#이다\EventTest\bin\Debug\EventTest.exe
+C:\Users\USER\Desktop\이것이C#이다\EventTest\bin\Debug\EventTest.pdb
+C:\Users\USER\Desktop\이것이C#이다\EventTest\obj\Debug\EventTest.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\EventTest\obj\Debug\EventTest.exe
+C:\Users\USER\Desktop\이것이C#이다\EventTest\obj\Debug\EventTest.pdb

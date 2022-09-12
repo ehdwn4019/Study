@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\해새\bin\Debug\해새.exe.config
+C:\Users\USER\Desktop\이것이C#이다\해새\bin\Debug\해새.exe
+C:\Users\USER\Desktop\이것이C#이다\해새\bin\Debug\해새.pdb
+C:\Users\USER\Desktop\이것이C#이다\해새\obj\Debug\Goto.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\해새\obj\Debug\해새.exe
+C:\Users\USER\Desktop\이것이C#이다\해새\obj\Debug\해새.pdb

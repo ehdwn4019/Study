@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\이것이C#이다\FileReceiver\bin\Debug\FileReceiver.exe.config
+C:\Users\USER\Desktop\이것이C#이다\FileReceiver\bin\Debug\FileReceiver.exe
+C:\Users\USER\Desktop\이것이C#이다\FileReceiver\bin\Debug\FileReceiver.pdb
+C:\Users\USER\Desktop\이것이C#이다\FileReceiver\bin\Debug\FUP.dll
+C:\Users\USER\Desktop\이것이C#이다\FileReceiver\bin\Debug\FUP.pdb
+C:\Users\USER\Desktop\이것이C#이다\FileReceiver\obj\Debug\FileReceiver.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\이것이C#이다\FileReceiver\obj\Debug\FileReceiver.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\FileReceiver\obj\Debug\FileReceiver.csproj.CopyComplete
+C:\Users\USER\Desktop\이것이C#이다\FileReceiver\obj\Debug\FileReceiver.exe
+C:\Users\USER\Desktop\이것이C#이다\FileReceiver\obj\Debug\FileReceiver.pdb

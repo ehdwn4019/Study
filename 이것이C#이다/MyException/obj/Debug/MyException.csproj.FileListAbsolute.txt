@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\MyException\bin\Debug\MyException.exe.config
+C:\Users\USER\Desktop\이것이C#이다\MyException\bin\Debug\MyException.exe
+C:\Users\USER\Desktop\이것이C#이다\MyException\bin\Debug\MyException.pdb
+C:\Users\USER\Desktop\이것이C#이다\MyException\obj\Debug\MyException.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\MyException\obj\Debug\MyException.exe
+C:\Users\USER\Desktop\이것이C#이다\MyException\obj\Debug\MyException.pdb

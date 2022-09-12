@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\NestedClass\bin\Debug\NestedClass.exe.config
+C:\Users\USER\Desktop\이것이C#이다\NestedClass\bin\Debug\NestedClass.exe
+C:\Users\USER\Desktop\이것이C#이다\NestedClass\bin\Debug\NestedClass.pdb
+C:\Users\USER\Desktop\이것이C#이다\NestedClass\obj\Debug\NestedClass.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\NestedClass\obj\Debug\NestedClass.exe
+C:\Users\USER\Desktop\이것이C#이다\NestedClass\obj\Debug\NestedClass.pdb

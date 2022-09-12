@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\GetType\bin\Debug\GetType.exe.config
+C:\Users\USER\Desktop\이것이C#이다\GetType\bin\Debug\GetType.exe
+C:\Users\USER\Desktop\이것이C#이다\GetType\bin\Debug\GetType.pdb
+C:\Users\USER\Desktop\이것이C#이다\GetType\obj\Debug\GetType.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\GetType\obj\Debug\GetType.exe
+C:\Users\USER\Desktop\이것이C#이다\GetType\obj\Debug\GetType.pdb

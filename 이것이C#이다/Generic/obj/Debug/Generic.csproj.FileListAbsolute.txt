@@ -1,0 +1,13 @@
+C:\Users\HOME\Desktop\이것이C#이다\Generic\bin\Debug\Generic.exe.config
+C:\Users\HOME\Desktop\이것이C#이다\Generic\bin\Debug\Generic.exe
+C:\Users\HOME\Desktop\이것이C#이다\Generic\bin\Debug\Generic.pdb
+C:\Users\HOME\Desktop\이것이C#이다\Generic\obj\Debug\Generic.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\이것이C#이다\Generic\obj\Debug\Generic.exe
+C:\Users\HOME\Desktop\이것이C#이다\Generic\obj\Debug\Generic.pdb
+C:\Users\HOME\Desktop\이것이C#이다\Generic\obj\Debug\Generic.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\이것이C#이다\Generic\bin\Debug\Generic.exe.config
+C:\Users\USER\Desktop\이것이C#이다\Generic\bin\Debug\Generic.exe
+C:\Users\USER\Desktop\이것이C#이다\Generic\bin\Debug\Generic.pdb
+C:\Users\USER\Desktop\이것이C#이다\Generic\obj\Debug\Generic.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\Generic\obj\Debug\Generic.exe
+C:\Users\USER\Desktop\이것이C#이다\Generic\obj\Debug\Generic.pdb

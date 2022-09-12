@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\Genericdelegate\bin\Debug\Genericdelegate.exe.config
+C:\Users\USER\Desktop\이것이C#이다\Genericdelegate\bin\Debug\Genericdelegate.exe
+C:\Users\USER\Desktop\이것이C#이다\Genericdelegate\bin\Debug\Genericdelegate.pdb
+C:\Users\USER\Desktop\이것이C#이다\Genericdelegate\obj\Debug\Genericdelegate.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\Genericdelegate\obj\Debug\Genericdelegate.exe
+C:\Users\USER\Desktop\이것이C#이다\Genericdelegate\obj\Debug\Genericdelegate.pdb

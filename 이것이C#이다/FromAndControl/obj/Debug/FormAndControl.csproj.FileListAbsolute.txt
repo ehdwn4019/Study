@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\이것이C#이다\FromAndControl\bin\Debug\FromAndControl.exe.config
+C:\Users\USER\Desktop\이것이C#이다\FromAndControl\bin\Debug\FromAndControl.exe
+C:\Users\USER\Desktop\이것이C#이다\FromAndControl\bin\Debug\FromAndControl.pdb
+C:\Users\USER\Desktop\이것이C#이다\FromAndControl\obj\Debug\FormAndControl.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\FromAndControl\obj\Debug\FromAndControl.exe
+C:\Users\USER\Desktop\이것이C#이다\FromAndControl\obj\Debug\FromAndControl.pdb
+C:\Users\USER\Desktop\이것이C#이다\FromAndControl\obj\Debug\FormAndControl.csproj.AssemblyReference.cache

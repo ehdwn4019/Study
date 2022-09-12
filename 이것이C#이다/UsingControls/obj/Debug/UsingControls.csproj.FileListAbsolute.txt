@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\이것이C#이다\UsingControls\bin\Debug\UsingControls.exe.config
+C:\Users\USER\Desktop\이것이C#이다\UsingControls\bin\Debug\UsingControls.exe
+C:\Users\USER\Desktop\이것이C#이다\UsingControls\bin\Debug\UsingControls.pdb
+C:\Users\USER\Desktop\이것이C#이다\UsingControls\obj\Debug\UsingControls.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\이것이C#이다\UsingControls\obj\Debug\UsingControls.MainForm.resources
+C:\Users\USER\Desktop\이것이C#이다\UsingControls\obj\Debug\UsingControls.Properties.Resources.resources
+C:\Users\USER\Desktop\이것이C#이다\UsingControls\obj\Debug\UsingControls.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\이것이C#이다\UsingControls\obj\Debug\UsingControls.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\UsingControls\obj\Debug\UsingControls.exe
+C:\Users\USER\Desktop\이것이C#이다\UsingControls\obj\Debug\UsingControls.pdb

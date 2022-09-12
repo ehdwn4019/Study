@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\MinMaxAvg\bin\Debug\MinMaxAvg.exe.config
+C:\Users\USER\Desktop\이것이C#이다\MinMaxAvg\bin\Debug\MinMaxAvg.exe
+C:\Users\USER\Desktop\이것이C#이다\MinMaxAvg\bin\Debug\MinMaxAvg.pdb
+C:\Users\USER\Desktop\이것이C#이다\MinMaxAvg\obj\Debug\MinMaxAvg.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\MinMaxAvg\obj\Debug\MinMaxAvg.exe
+C:\Users\USER\Desktop\이것이C#이다\MinMaxAvg\obj\Debug\MinMaxAvg.pdb

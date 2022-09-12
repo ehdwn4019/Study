@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\PartialClass\bin\Debug\PartialClass.exe.config
+C:\Users\USER\Desktop\이것이C#이다\PartialClass\bin\Debug\PartialClass.exe
+C:\Users\USER\Desktop\이것이C#이다\PartialClass\bin\Debug\PartialClass.pdb
+C:\Users\USER\Desktop\이것이C#이다\PartialClass\obj\Debug\PartialClass.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\PartialClass\obj\Debug\PartialClass.exe
+C:\Users\USER\Desktop\이것이C#이다\PartialClass\obj\Debug\PartialClass.pdb

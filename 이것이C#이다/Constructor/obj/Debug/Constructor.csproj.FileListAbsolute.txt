@@ -1,0 +1,13 @@
+C:\Users\HOME\Desktop\이것이C#이다\Constructor\bin\Debug\Constructor.exe.config
+C:\Users\HOME\Desktop\이것이C#이다\Constructor\bin\Debug\Constructor.exe
+C:\Users\HOME\Desktop\이것이C#이다\Constructor\bin\Debug\Constructor.pdb
+C:\Users\HOME\Desktop\이것이C#이다\Constructor\obj\Debug\Constructor.csprojAssemblyReference.cache
+C:\Users\HOME\Desktop\이것이C#이다\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\이것이C#이다\Constructor\obj\Debug\Constructor.exe
+C:\Users\HOME\Desktop\이것이C#이다\Constructor\obj\Debug\Constructor.pdb
+C:\Users\USER\Desktop\이것이C#이다\Constructor\bin\Debug\Constructor.exe.config
+C:\Users\USER\Desktop\이것이C#이다\Constructor\bin\Debug\Constructor.exe
+C:\Users\USER\Desktop\이것이C#이다\Constructor\bin\Debug\Constructor.pdb
+C:\Users\USER\Desktop\이것이C#이다\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\Constructor\obj\Debug\Constructor.exe
+C:\Users\USER\Desktop\이것이C#이다\Constructor\obj\Debug\Constructor.pdb

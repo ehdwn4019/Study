@@ -1,0 +1,12 @@
+C:\Users\HOME\Desktop\이것이C#이다\UsingDictionary\bin\Debug\UsingDictionary.exe.config
+C:\Users\HOME\Desktop\이것이C#이다\UsingDictionary\bin\Debug\UsingDictionary.exe
+C:\Users\HOME\Desktop\이것이C#이다\UsingDictionary\bin\Debug\UsingDictionary.pdb
+C:\Users\HOME\Desktop\이것이C#이다\UsingDictionary\obj\Debug\UsingDictionary.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\이것이C#이다\UsingDictionary\obj\Debug\UsingDictionary.exe
+C:\Users\HOME\Desktop\이것이C#이다\UsingDictionary\obj\Debug\UsingDictionary.pdb
+C:\Users\USER\Desktop\이것이C#이다\UsingDictionary\bin\Debug\UsingDictionary.exe.config
+C:\Users\USER\Desktop\이것이C#이다\UsingDictionary\bin\Debug\UsingDictionary.exe
+C:\Users\USER\Desktop\이것이C#이다\UsingDictionary\bin\Debug\UsingDictionary.pdb
+C:\Users\USER\Desktop\이것이C#이다\UsingDictionary\obj\Debug\UsingDictionary.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\UsingDictionary\obj\Debug\UsingDictionary.exe
+C:\Users\USER\Desktop\이것이C#이다\UsingDictionary\obj\Debug\UsingDictionary.pdb

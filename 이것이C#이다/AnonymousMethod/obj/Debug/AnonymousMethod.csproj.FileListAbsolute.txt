@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\AnonymousMethod\bin\Debug\AnonymousMethod.exe.config
+C:\Users\USER\Desktop\이것이C#이다\AnonymousMethod\bin\Debug\AnonymousMethod.exe
+C:\Users\USER\Desktop\이것이C#이다\AnonymousMethod\bin\Debug\AnonymousMethod.pdb
+C:\Users\USER\Desktop\이것이C#이다\AnonymousMethod\obj\Debug\AnonymousMethod.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\AnonymousMethod\obj\Debug\AnonymousMethod.exe
+C:\Users\USER\Desktop\이것이C#이다\AnonymousMethod\obj\Debug\AnonymousMethod.pdb

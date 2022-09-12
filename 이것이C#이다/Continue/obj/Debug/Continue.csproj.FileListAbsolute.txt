@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\Continue\bin\Debug\Continue.exe.config
+C:\Users\USER\Desktop\이것이C#이다\Continue\bin\Debug\Continue.exe
+C:\Users\USER\Desktop\이것이C#이다\Continue\bin\Debug\Continue.pdb
+C:\Users\USER\Desktop\이것이C#이다\Continue\obj\Debug\Continue.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\Continue\obj\Debug\Continue.exe
+C:\Users\USER\Desktop\이것이C#이다\Continue\obj\Debug\Continue.pdb

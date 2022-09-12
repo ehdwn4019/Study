@@ -1,0 +1,13 @@
+C:\Users\HOME\Desktop\이것이C#이다\StaticField\bin\Debug\StaticField.exe.config
+C:\Users\HOME\Desktop\이것이C#이다\StaticField\bin\Debug\StaticField.exe
+C:\Users\HOME\Desktop\이것이C#이다\StaticField\bin\Debug\StaticField.pdb
+C:\Users\HOME\Desktop\이것이C#이다\StaticField\obj\Debug\StaticField.csprojAssemblyReference.cache
+C:\Users\HOME\Desktop\이것이C#이다\StaticField\obj\Debug\StaticField.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\이것이C#이다\StaticField\obj\Debug\StaticField.exe
+C:\Users\HOME\Desktop\이것이C#이다\StaticField\obj\Debug\StaticField.pdb
+C:\Users\USER\Desktop\이것이C#이다\StaticField\bin\Debug\StaticField.exe.config
+C:\Users\USER\Desktop\이것이C#이다\StaticField\bin\Debug\StaticField.exe
+C:\Users\USER\Desktop\이것이C#이다\StaticField\bin\Debug\StaticField.pdb
+C:\Users\USER\Desktop\이것이C#이다\StaticField\obj\Debug\StaticField.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\StaticField\obj\Debug\StaticField.exe
+C:\Users\USER\Desktop\이것이C#이다\StaticField\obj\Debug\StaticField.pdb

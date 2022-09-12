@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>아버지가 방에 들어가신다.                                     할머니가 죽을 잡수신다.                                       아 기다리고 기다리던 방학.</StartArguments>
+  </PropertyGroup>
+</Project>

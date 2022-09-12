@@ -1,0 +1,12 @@
+C:\Users\HOME\Desktop\이것이C#이다\FloatToIntegral\bin\Debug\FloatToIntegral.exe.config
+C:\Users\HOME\Desktop\이것이C#이다\FloatToIntegral\bin\Debug\FloatToIntegral.exe
+C:\Users\HOME\Desktop\이것이C#이다\FloatToIntegral\bin\Debug\FloatToIntegral.pdb
+C:\Users\HOME\Desktop\이것이C#이다\FloatToIntegral\obj\Debug\FloatToIntegral.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\이것이C#이다\FloatToIntegral\obj\Debug\FloatToIntegral.exe
+C:\Users\HOME\Desktop\이것이C#이다\FloatToIntegral\obj\Debug\FloatToIntegral.pdb
+C:\Users\USER\Desktop\이것이C#이다\FloatToIntegral\bin\Debug\FloatToIntegral.exe.config
+C:\Users\USER\Desktop\이것이C#이다\FloatToIntegral\bin\Debug\FloatToIntegral.exe
+C:\Users\USER\Desktop\이것이C#이다\FloatToIntegral\bin\Debug\FloatToIntegral.pdb
+C:\Users\USER\Desktop\이것이C#이다\FloatToIntegral\obj\Debug\FloatToIntegral.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\FloatToIntegral\obj\Debug\FloatToIntegral.exe
+C:\Users\USER\Desktop\이것이C#이다\FloatToIntegral\obj\Debug\FloatToIntegral.pdb

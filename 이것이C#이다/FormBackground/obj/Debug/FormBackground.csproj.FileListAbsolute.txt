@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\이것이C#이다\FormBackground\bin\Debug\FormBackground.exe.config
+C:\Users\USER\Desktop\이것이C#이다\FormBackground\bin\Debug\FormBackground.exe
+C:\Users\USER\Desktop\이것이C#이다\FormBackground\bin\Debug\FormBackground.pdb
+C:\Users\USER\Desktop\이것이C#이다\FormBackground\obj\Debug\FormBackground.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\이것이C#이다\FormBackground\obj\Debug\FormBackground.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\FormBackground\obj\Debug\FormBackground.exe
+C:\Users\USER\Desktop\이것이C#이다\FormBackground\obj\Debug\FormBackground.pdb

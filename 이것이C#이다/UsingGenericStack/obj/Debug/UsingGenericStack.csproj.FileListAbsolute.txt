@@ -1,0 +1,12 @@
+C:\Users\HOME\Desktop\이것이C#이다\UsingGenericStack\bin\Debug\UsingGenericStack.exe.config
+C:\Users\HOME\Desktop\이것이C#이다\UsingGenericStack\bin\Debug\UsingGenericStack.exe
+C:\Users\HOME\Desktop\이것이C#이다\UsingGenericStack\bin\Debug\UsingGenericStack.pdb
+C:\Users\HOME\Desktop\이것이C#이다\UsingGenericStack\obj\Debug\UsingGenericStack.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\이것이C#이다\UsingGenericStack\obj\Debug\UsingGenericStack.exe
+C:\Users\HOME\Desktop\이것이C#이다\UsingGenericStack\obj\Debug\UsingGenericStack.pdb
+C:\Users\USER\Desktop\이것이C#이다\UsingGenericStack\bin\Debug\UsingGenericStack.exe.config
+C:\Users\USER\Desktop\이것이C#이다\UsingGenericStack\bin\Debug\UsingGenericStack.exe
+C:\Users\USER\Desktop\이것이C#이다\UsingGenericStack\bin\Debug\UsingGenericStack.pdb
+C:\Users\USER\Desktop\이것이C#이다\UsingGenericStack\obj\Debug\UsingGenericStack.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\UsingGenericStack\obj\Debug\UsingGenericStack.exe
+C:\Users\USER\Desktop\이것이C#이다\UsingGenericStack\obj\Debug\UsingGenericStack.pdb

@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\Delegate\bin\Debug\Delegate.exe.config
+C:\Users\USER\Desktop\이것이C#이다\Delegate\bin\Debug\Delegate.exe
+C:\Users\USER\Desktop\이것이C#이다\Delegate\bin\Debug\Delegate.pdb
+C:\Users\USER\Desktop\이것이C#이다\Delegate\obj\Debug\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\Delegate\obj\Debug\Delegate.exe
+C:\Users\USER\Desktop\이것이C#이다\Delegate\obj\Debug\Delegate.pdb

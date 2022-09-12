@@ -1,0 +1,13 @@
+C:\Users\HOME\Desktop\이것이C#이다\CopyingArray\bin\Debug\CopyingArray.exe.config
+C:\Users\HOME\Desktop\이것이C#이다\CopyingArray\bin\Debug\CopyingArray.exe
+C:\Users\HOME\Desktop\이것이C#이다\CopyingArray\bin\Debug\CopyingArray.pdb
+C:\Users\HOME\Desktop\이것이C#이다\CopyingArray\obj\Debug\CopyingArray.csprojAssemblyReference.cache
+C:\Users\HOME\Desktop\이것이C#이다\CopyingArray\obj\Debug\CopyingArray.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\이것이C#이다\CopyingArray\obj\Debug\CopyingArray.exe
+C:\Users\HOME\Desktop\이것이C#이다\CopyingArray\obj\Debug\CopyingArray.pdb
+C:\Users\USER\Desktop\이것이C#이다\CopyingArray\bin\Debug\CopyingArray.exe.config
+C:\Users\USER\Desktop\이것이C#이다\CopyingArray\bin\Debug\CopyingArray.exe
+C:\Users\USER\Desktop\이것이C#이다\CopyingArray\bin\Debug\CopyingArray.pdb
+C:\Users\USER\Desktop\이것이C#이다\CopyingArray\obj\Debug\CopyingArray.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\CopyingArray\obj\Debug\CopyingArray.exe
+C:\Users\USER\Desktop\이것이C#이다\CopyingArray\obj\Debug\CopyingArray.pdb

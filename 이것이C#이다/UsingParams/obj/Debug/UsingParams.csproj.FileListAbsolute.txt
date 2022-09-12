@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\UsingParams\bin\Debug\UsingParams.exe.config
+C:\Users\USER\Desktop\이것이C#이다\UsingParams\bin\Debug\UsingParams.exe
+C:\Users\USER\Desktop\이것이C#이다\UsingParams\bin\Debug\UsingParams.pdb
+C:\Users\USER\Desktop\이것이C#이다\UsingParams\obj\Debug\UsingParams.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\UsingParams\obj\Debug\UsingParams.exe
+C:\Users\USER\Desktop\이것이C#이다\UsingParams\obj\Debug\UsingParams.pdb

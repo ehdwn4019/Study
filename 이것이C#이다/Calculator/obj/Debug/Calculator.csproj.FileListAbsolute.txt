@@ -1,0 +1,13 @@
+C:\Users\HOME\Desktop\이것이C#이다\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\HOME\Desktop\이것이C#이다\Calculator\bin\Debug\Calculator.exe
+C:\Users\HOME\Desktop\이것이C#이다\Calculator\bin\Debug\Calculator.pdb
+C:\Users\HOME\Desktop\이것이C#이다\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\HOME\Desktop\이것이C#이다\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\이것이C#이다\Calculator\obj\Debug\Calculator.exe
+C:\Users\HOME\Desktop\이것이C#이다\Calculator\obj\Debug\Calculator.pdb
+C:\Users\USER\Desktop\이것이C#이다\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\USER\Desktop\이것이C#이다\Calculator\bin\Debug\Calculator.exe
+C:\Users\USER\Desktop\이것이C#이다\Calculator\bin\Debug\Calculator.pdb
+C:\Users\USER\Desktop\이것이C#이다\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\Calculator\obj\Debug\Calculator.exe
+C:\Users\USER\Desktop\이것이C#이다\Calculator\obj\Debug\Calculator.pdb

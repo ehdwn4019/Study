@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\InfiniteWhile\bin\Debug\InfiniteWhile.exe.config
+C:\Users\USER\Desktop\이것이C#이다\InfiniteWhile\bin\Debug\InfiniteWhile.exe
+C:\Users\USER\Desktop\이것이C#이다\InfiniteWhile\bin\Debug\InfiniteWhile.pdb
+C:\Users\USER\Desktop\이것이C#이다\InfiniteWhile\obj\Debug\InfiniteWhile.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\InfiniteWhile\obj\Debug\InfiniteWhile.exe
+C:\Users\USER\Desktop\이것이C#이다\InfiniteWhile\obj\Debug\InfiniteWhile.pdb

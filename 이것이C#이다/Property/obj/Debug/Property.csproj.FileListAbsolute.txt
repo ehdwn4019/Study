@@ -1,0 +1,13 @@
+C:\Users\HOME\Desktop\이것이C#이다\Property\bin\Debug\Property.exe.config
+C:\Users\HOME\Desktop\이것이C#이다\Property\bin\Debug\Property.exe
+C:\Users\HOME\Desktop\이것이C#이다\Property\bin\Debug\Property.pdb
+C:\Users\HOME\Desktop\이것이C#이다\Property\obj\Debug\Property.csprojAssemblyReference.cache
+C:\Users\HOME\Desktop\이것이C#이다\Property\obj\Debug\Property.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\이것이C#이다\Property\obj\Debug\Property.exe
+C:\Users\HOME\Desktop\이것이C#이다\Property\obj\Debug\Property.pdb
+C:\Users\USER\Desktop\이것이C#이다\Property\bin\Debug\Property.exe.config
+C:\Users\USER\Desktop\이것이C#이다\Property\bin\Debug\Property.exe
+C:\Users\USER\Desktop\이것이C#이다\Property\bin\Debug\Property.pdb
+C:\Users\USER\Desktop\이것이C#이다\Property\obj\Debug\Property.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\Property\obj\Debug\Property.exe
+C:\Users\USER\Desktop\이것이C#이다\Property\obj\Debug\Property.pdb

@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\UsingThreadState\bin\Debug\UsingThreadState.exe.config
+C:\Users\USER\Desktop\이것이C#이다\UsingThreadState\bin\Debug\UsingThreadState.exe
+C:\Users\USER\Desktop\이것이C#이다\UsingThreadState\bin\Debug\UsingThreadState.pdb
+C:\Users\USER\Desktop\이것이C#이다\UsingThreadState\obj\Debug\UsingThreadState.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\UsingThreadState\obj\Debug\UsingThreadState.exe
+C:\Users\USER\Desktop\이것이C#이다\UsingThreadState\obj\Debug\UsingThreadState.pdb

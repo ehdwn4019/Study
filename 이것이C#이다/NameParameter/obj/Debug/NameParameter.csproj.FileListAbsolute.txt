@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\NameParameter\bin\Debug\NameParameter.exe.config
+C:\Users\USER\Desktop\이것이C#이다\NameParameter\bin\Debug\NameParameter.exe
+C:\Users\USER\Desktop\이것이C#이다\NameParameter\bin\Debug\NameParameter.pdb
+C:\Users\USER\Desktop\이것이C#이다\NameParameter\obj\Debug\NameParameter.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\NameParameter\obj\Debug\NameParameter.exe
+C:\Users\USER\Desktop\이것이C#이다\NameParameter\obj\Debug\NameParameter.pdb

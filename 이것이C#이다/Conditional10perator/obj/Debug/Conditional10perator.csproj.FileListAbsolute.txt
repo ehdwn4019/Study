@@ -1,0 +1,13 @@
+C:\Users\HOME\Desktop\이것이C#이다\Conditional10perator\bin\Debug\Conditional10perator.exe.config
+C:\Users\HOME\Desktop\이것이C#이다\Conditional10perator\bin\Debug\Conditional10perator.exe
+C:\Users\HOME\Desktop\이것이C#이다\Conditional10perator\bin\Debug\Conditional10perator.pdb
+C:\Users\HOME\Desktop\이것이C#이다\Conditional10perator\obj\Debug\Conditional10perator.csprojAssemblyReference.cache
+C:\Users\HOME\Desktop\이것이C#이다\Conditional10perator\obj\Debug\Conditional10perator.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\이것이C#이다\Conditional10perator\obj\Debug\Conditional10perator.exe
+C:\Users\HOME\Desktop\이것이C#이다\Conditional10perator\obj\Debug\Conditional10perator.pdb
+C:\Users\USER\Desktop\이것이C#이다\Conditional10perator\bin\Debug\Conditional10perator.exe.config
+C:\Users\USER\Desktop\이것이C#이다\Conditional10perator\bin\Debug\Conditional10perator.exe
+C:\Users\USER\Desktop\이것이C#이다\Conditional10perator\bin\Debug\Conditional10perator.pdb
+C:\Users\USER\Desktop\이것이C#이다\Conditional10perator\obj\Debug\Conditional10perator.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\Conditional10perator\obj\Debug\Conditional10perator.exe
+C:\Users\USER\Desktop\이것이C#이다\Conditional10perator\obj\Debug\Conditional10perator.pdb

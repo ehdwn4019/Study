@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\ForEach\bin\Debug\ForEach.exe.config
+C:\Users\USER\Desktop\이것이C#이다\ForEach\bin\Debug\ForEach.exe
+C:\Users\USER\Desktop\이것이C#이다\ForEach\bin\Debug\ForEach.pdb
+C:\Users\USER\Desktop\이것이C#이다\ForEach\obj\Debug\ForEach.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\ForEach\obj\Debug\ForEach.exe
+C:\Users\USER\Desktop\이것이C#이다\ForEach\obj\Debug\ForEach.pdb

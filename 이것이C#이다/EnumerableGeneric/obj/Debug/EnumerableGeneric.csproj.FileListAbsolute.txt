@@ -1,0 +1,13 @@
+C:\Users\HOME\Desktop\이것이C#이다\EnumerableGeneric\bin\Debug\EnumerableGeneric.exe.config
+C:\Users\HOME\Desktop\이것이C#이다\EnumerableGeneric\bin\Debug\EnumerableGeneric.exe
+C:\Users\HOME\Desktop\이것이C#이다\EnumerableGeneric\bin\Debug\EnumerableGeneric.pdb
+C:\Users\HOME\Desktop\이것이C#이다\EnumerableGeneric\obj\Debug\EnumerableGeneric.csprojAssemblyReference.cache
+C:\Users\HOME\Desktop\이것이C#이다\EnumerableGeneric\obj\Debug\EnumerableGeneric.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\이것이C#이다\EnumerableGeneric\obj\Debug\EnumerableGeneric.exe
+C:\Users\HOME\Desktop\이것이C#이다\EnumerableGeneric\obj\Debug\EnumerableGeneric.pdb
+C:\Users\USER\Desktop\이것이C#이다\EnumerableGeneric\bin\Debug\EnumerableGeneric.exe.config
+C:\Users\USER\Desktop\이것이C#이다\EnumerableGeneric\bin\Debug\EnumerableGeneric.exe
+C:\Users\USER\Desktop\이것이C#이다\EnumerableGeneric\bin\Debug\EnumerableGeneric.pdb
+C:\Users\USER\Desktop\이것이C#이다\EnumerableGeneric\obj\Debug\EnumerableGeneric.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\EnumerableGeneric\obj\Debug\EnumerableGeneric.exe
+C:\Users\USER\Desktop\이것이C#이다\EnumerableGeneric\obj\Debug\EnumerableGeneric.pdb

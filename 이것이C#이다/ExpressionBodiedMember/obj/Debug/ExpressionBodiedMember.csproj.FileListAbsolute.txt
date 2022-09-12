@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\ExpressionBodiedMember\bin\Debug\ExpressionBodiedMember.exe.config
+C:\Users\USER\Desktop\이것이C#이다\ExpressionBodiedMember\bin\Debug\ExpressionBodiedMember.exe
+C:\Users\USER\Desktop\이것이C#이다\ExpressionBodiedMember\bin\Debug\ExpressionBodiedMember.pdb
+C:\Users\USER\Desktop\이것이C#이다\ExpressionBodiedMember\obj\Debug\ExpressionBodiedMember.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\ExpressionBodiedMember\obj\Debug\ExpressionBodiedMember.exe
+C:\Users\USER\Desktop\이것이C#이다\ExpressionBodiedMember\obj\Debug\ExpressionBodiedMember.pdb

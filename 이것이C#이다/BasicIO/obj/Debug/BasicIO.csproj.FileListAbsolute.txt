@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\이것이C#이다\BasicIO\bin\Debug\BasicIO.exe.config
+C:\Users\USER\Desktop\이것이C#이다\BasicIO\bin\Debug\BasicIO.exe
+C:\Users\USER\Desktop\이것이C#이다\BasicIO\bin\Debug\BasicIO.pdb
+C:\Users\USER\Desktop\이것이C#이다\BasicIO\obj\Debug\BasicIO.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\이것이C#이다\BasicIO\obj\Debug\BasicIO.exe
+C:\Users\USER\Desktop\이것이C#이다\BasicIO\obj\Debug\BasicIO.pdb
