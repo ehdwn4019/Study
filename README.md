@@ -1,7 +1,8 @@
 # Study
 ![js](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
 
-Hello Coding 개념부터 처음 배우는 프로그래밍
+Hello Coding 개념부터 처음 배우는 프로그래밍  
+이것이 C#이다
 
 ![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
 
